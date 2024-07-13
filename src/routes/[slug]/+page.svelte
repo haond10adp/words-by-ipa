@@ -49,7 +49,7 @@
 
 	caption {
 		font-size: xx-large;
-		font-family: 'Playwrite BE VLG', cursive;
+		font-family: 'Pacifico', cursive;
 		border-bottom: 2px solid black;
 		margin-bottom: 1em;
 	}
