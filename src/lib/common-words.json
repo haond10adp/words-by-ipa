@@ -1,0 +1,4999 @@
+{
+  "Sheet1": [
+    {
+      "lemma": "all",
+      "ipa": "ɔːl",
+      "translation": "tất cả"
+    },
+    {
+      "lemma": "and",
+      "ipa": "ænd",
+      "translation": "và"
+    },
+    {
+      "lemma": "boy",
+      "ipa": "bɔɪ",
+      "translation": "con trai"
+    },
+    {
+      "lemma": "car",
+      "ipa": "kɑː(r)",
+      "translation": "xe hơi"
+    },
+    {
+      "lemma": "cat",
+      "ipa": "kæt",
+      "translation": "con mèo"
+    },
+    {
+      "lemma": "day",
+      "ipa": "deɪ",
+      "translation": "ngày"
+    },
+    {
+      "lemma": "end",
+      "ipa": "end",
+      "translation": "kết thúc"
+    },
+    {
+      "lemma": "family",
+      "ipa": "ˈfæməli",
+      "translation": "gia đình"
+    },
+    {
+      "lemma": "home",
+      "ipa": "həʊm",
+      "translation": "Trang Chủ"
+    },
+    {
+      "lemma": "it",
+      "ipa": "ɪt",
+      "translation": "nó"
+    },
+    {
+      "lemma": "man",
+      "ipa": "mæn",
+      "translation": "Đàn ông"
+    },
+    {
+      "lemma": "name",
+      "ipa": "neɪm",
+      "translation": "Tên"
+    },
+    {
+      "lemma": "one",
+      "ipa": "wʌn",
+      "translation": "một"
+    },
+    {
+      "lemma": "people",
+      "ipa": "ˈpiːpl",
+      "translation": "Mọi người"
+    },
+    {
+      "lemma": "read",
+      "ipa": "riːd",
+      "translation": "đọc"
+    },
+    {
+      "lemma": "school",
+      "ipa": "skuːl",
+      "translation": "trường học"
+    },
+    {
+      "lemma": "speak",
+      "ipa": "spiːk",
+      "translation": "nói"
+    },
+    {
+      "lemma": "the",
+      "ipa": "ðə",
+      "translation": "the"
+    },
+    {
+      "lemma": "this",
+      "ipa": "ðɪs",
+      "translation": "điều này"
+    },
+    {
+      "lemma": "you",
+      "ipa": "juː",
+      "translation": "bạn"
+    },
+    {
+      "lemma": "ask",
+      "ipa": "ɑːsk",
+      "translation": "hỏi"
+    },
+    {
+      "lemma": "book",
+      "ipa": "bʊk",
+      "translation": "sách"
+    },
+    {
+      "lemma": "can",
+      "ipa": "kæn",
+      "translation": "có thể"
+    },
+    {
+      "lemma": "dog",
+      "ipa": "dɒɡ",
+      "translation": "chó"
+    },
+    {
+      "lemma": "eye",
+      "ipa": "aɪ",
+      "translation": "con mắt"
+    },
+    {
+      "lemma": "first",
+      "ipa": "fɜːst",
+      "translation": "Đầu tiên"
+    },
+    {
+      "lemma": "go",
+      "ipa": "ɡəʊ",
+      "translation": "đi"
+    },
+    {
+      "lemma": "he",
+      "ipa": "hiː",
+      "translation": "anh ta"
+    },
+    {
+      "lemma": "child",
+      "ipa": "tʃaɪld",
+      "translation": "đứa trẻ"
+    },
+    {
+      "lemma": "in",
+      "ipa": "ɪn",
+      "translation": "trong"
+    },
+    {
+      "lemma": "learn",
+      "ipa": "lɜːn",
+      "translation": "học hỏi"
+    },
+    {
+      "lemma": "morning",
+      "ipa": "ˈmɔːnɪŋ",
+      "translation": "buổi sáng"
+    },
+    {
+      "lemma": "open",
+      "ipa": "ˈəʊpən",
+      "translation": "mở"
+    },
+    {
+      "lemma": "play",
+      "ipa": "pleɪ",
+      "translation": "chơi"
+    },
+    {
+      "lemma": "question",
+      "ipa": "ˈkwestʃən",
+      "translation": "câu hỏi"
+    },
+    {
+      "lemma": "room",
+      "ipa": "ruːm",
+      "translation": "phòng"
+    },
+    {
+      "lemma": "say",
+      "ipa": "ruːm",
+      "translation": "Nói"
+    },
+    {
+      "lemma": "start",
+      "ipa": "stɑːt",
+      "translation": "khởi đầu"
+    },
+    {
+      "lemma": "today",
+      "ipa": "təˈdeɪ",
+      "translation": "hôm nay"
+    },
+    {
+      "lemma": "word",
+      "ipa": "wɜːd",
+      "translation": "từ ngữ"
+    },
+    {
+      "lemma": "about",
+      "ipa": "əˈbaʊt",
+      "translation": "trong khoảng"
+    },
+    {
+      "lemma": "at",
+      "ipa": "æt",
+      "translation": "tại"
+    },
+    {
+      "lemma": "brother",
+      "ipa": "ˈbrʌðə(r)",
+      "translation": "Anh trai"
+    },
+    {
+      "lemma": "drink",
+      "ipa": "drɪŋk",
+      "translation": "uống"
+    },
+    {
+      "lemma": "easy",
+      "ipa": "ˈiːzi",
+      "translation": "dễ dàng"
+    },
+    {
+      "lemma": "father",
+      "ipa": "ˈfɑːðə(r)",
+      "translation": "bố"
+    },
+    {
+      "lemma": "girl",
+      "ipa": "ɡɜːl",
+      "translation": "con gái"
+    },
+    {
+      "lemma": "help",
+      "ipa": "help",
+      "translation": "Cứu giúp"
+    },
+    {
+      "lemma": "chair",
+      "ipa": "tʃeə(r)",
+      "translation": "cái ghế"
+    },
+    {
+      "lemma": "know",
+      "ipa": "nəʊ",
+      "translation": "biết rôi"
+    },
+    {
+      "lemma": "my",
+      "ipa": "nəʊ",
+      "translation": "của tôi"
+    },
+    {
+      "lemma": "new",
+      "ipa": "njuː",
+      "translation": "Mới"
+    },
+    {
+      "lemma": "paper",
+      "ipa": "ˈpeɪpə(r)",
+      "translation": "giấy"
+    },
+    {
+      "lemma": "please",
+      "ipa": "pliːz",
+      "translation": "xin vui lòng"
+    },
+    {
+      "lemma": "rich",
+      "ipa": "rɪtʃ",
+      "translation": "giàu có"
+    },
+    {
+      "lemma": "she",
+      "ipa": "ʃiː",
+      "translation": "bà ấy"
+    },
+    {
+      "lemma": "show",
+      "ipa": "ʃəʊ",
+      "translation": "chỉ"
+    },
+    {
+      "lemma": "son",
+      "ipa": "sʌn",
+      "translation": "Con trai"
+    },
+    {
+      "lemma": "they",
+      "ipa": "ðeɪ",
+      "translation": "họ"
+    },
+    {
+      "lemma": "what",
+      "ipa": "wɒt",
+      "translation": "gì"
+    },
+    {
+      "lemma": "always",
+      "ipa": "ˈɔːlweɪz",
+      "translation": "luôn luôn"
+    },
+    {
+      "lemma": "be",
+      "ipa": "biː",
+      "translation": "là"
+    },
+    {
+      "lemma": "body",
+      "ipa": "ˈbɒdi",
+      "translation": "thân hình"
+    },
+    {
+      "lemma": "careful",
+      "ipa": "ˈkeəfl",
+      "translation": "cẩn thận"
+    },
+    {
+      "lemma": "cry",
+      "ipa": "kraɪ",
+      "translation": "khóc"
+    },
+    {
+      "lemma": "door",
+      "ipa": "dɔː(r)",
+      "translation": "cửa"
+    },
+    {
+      "lemma": "everything",
+      "ipa": "ˈevriθɪŋ",
+      "translation": "mọi điều"
+    },
+    {
+      "lemma": "face",
+      "ipa": "feɪs",
+      "translation": "khuôn mặt"
+    },
+    {
+      "lemma": "her",
+      "ipa": "hə(r)",
+      "translation": "cô ấy"
+    },
+    {
+      "lemma": "if",
+      "ipa": "ɪf",
+      "translation": "nếu"
+    },
+    {
+      "lemma": "many",
+      "ipa": "ˈmeni",
+      "translation": "nhiều"
+    },
+    {
+      "lemma": "no",
+      "ipa": "nəʊ",
+      "translation": "Không"
+    },
+    {
+      "lemma": "pen",
+      "ipa": "pen",
+      "translation": "cây bút"
+    },
+    {
+      "lemma": "place",
+      "ipa": "pleɪs",
+      "translation": "địa điểm"
+    },
+    {
+      "lemma": "road",
+      "ipa": "rəʊd",
+      "translation": "đường"
+    },
+    {
+      "lemma": "stop",
+      "ipa": "stɒp",
+      "translation": "dừng lại"
+    },
+    {
+      "lemma": "student",
+      "ipa": "ˈstjuːdnt",
+      "translation": "sinh viên"
+    },
+    {
+      "lemma": "two",
+      "ipa": "tuː",
+      "translation": "hai"
+    },
+    {
+      "lemma": "want",
+      "ipa": "wɒnt",
+      "translation": "muốn"
+    },
+    {
+      "lemma": "where",
+      "ipa": "weə(r)",
+      "translation": "Ở đâu"
+    },
+    {
+      "lemma": "answer",
+      "ipa": "ˈɑːnsə(r)",
+      "translation": "câu trả lời"
+    },
+    {
+      "lemma": "between",
+      "ipa": "bɪˈtwiːn",
+      "translation": "giữa"
+    },
+    {
+      "lemma": "clear",
+      "ipa": "klɪə(r)",
+      "translation": "thông thoáng"
+    },
+    {
+      "lemma": "country",
+      "ipa": "ˈkʌntri",
+      "translation": "Quốc gia"
+    },
+    {
+      "lemma": "dance",
+      "ipa": "dɑːns",
+      "translation": "nhảy"
+    },
+    {
+      "lemma": "do",
+      "ipa": "duː",
+      "translation": "làm"
+    },
+    {
+      "lemma": "each",
+      "ipa": "iːtʃ",
+      "translation": "mỗi"
+    },
+    {
+      "lemma": "friend",
+      "ipa": "frend",
+      "translation": "bạn bè"
+    },
+    {
+      "lemma": "his",
+      "ipa": "hɪz",
+      "translation": "của anh ấy"
+    },
+    {
+      "lemma": "job",
+      "ipa": "dʒɒb",
+      "translation": "việc làm"
+    },
+    {
+      "lemma": "life",
+      "ipa": "laɪf",
+      "translation": "đời sống"
+    },
+    {
+      "lemma": "more",
+      "ipa": "mɔː(r)",
+      "translation": "hơn"
+    },
+    {
+      "lemma": "park",
+      "ipa": "pɑːk",
+      "translation": "công viên"
+    },
+    {
+      "lemma": "person",
+      "ipa": "ˈpɜːsn",
+      "translation": "người"
+    },
+    {
+      "lemma": "ready",
+      "ipa": "ˈredi",
+      "translation": "Sẵn sàng"
+    },
+    {
+      "lemma": "second",
+      "ipa": "ˈsekənd",
+      "translation": "thứ hai"
+    },
+    {
+      "lemma": "soon",
+      "ipa": "suːn",
+      "translation": "Sớm"
+    },
+    {
+      "lemma": "that",
+      "ipa": "ðæt",
+      "translation": "cái đó"
+    },
+    {
+      "lemma": "we",
+      "ipa": "wiː",
+      "translation": "chúng tôi"
+    },
+    {
+      "lemma": "why",
+      "ipa": "waɪ",
+      "translation": "tại sao"
+    },
+    {
+      "lemma": "able",
+      "ipa": "ˈeɪbl",
+      "translation": "có thể"
+    },
+    {
+      "lemma": "before",
+      "ipa": "bɪˈfɔː(r)",
+      "translation": "trước"
+    },
+    {
+      "lemma": "but",
+      "ipa": "bʌt",
+      "translation": "nhưng"
+    },
+    {
+      "lemma": "clean",
+      "ipa": "kliːn",
+      "translation": "dọn dẹp"
+    },
+    {
+      "lemma": "close",
+      "ipa": "kləʊz",
+      "translation": "đóng"
+    },
+    {
+      "lemma": "dream",
+      "ipa": "driːm",
+      "translation": "mơ"
+    },
+    {
+      "lemma": "eight",
+      "ipa": "eɪt",
+      "translation": "tám"
+    },
+    {
+      "lemma": "for",
+      "ipa": "fɔː(r)",
+      "translation": "cho"
+    },
+    {
+      "lemma": "hand",
+      "ipa": "hænd",
+      "translation": "tay"
+    },
+    {
+      "lemma": "inside",
+      "ipa": "ˌɪnˈsaɪd",
+      "translation": "phía trong"
+    },
+    {
+      "lemma": "now",
+      "ipa": "naʊ",
+      "translation": "hiện nay"
+    },
+    {
+      "lemma": "or",
+      "ipa": "ɔː(r)",
+      "translation": "hoặc là"
+    },
+    {
+      "lemma": "picture",
+      "ipa": "ˈpɪktʃə(r)",
+      "translation": "hình ảnh"
+    },
+    {
+      "lemma": "river",
+      "ipa": "ˈrɪvə(r)",
+      "translation": "con sông"
+    },
+    {
+      "lemma": "ship",
+      "ipa": "ʃɪp",
+      "translation": "tàu"
+    },
+    {
+      "lemma": "shop",
+      "ipa": "ʃɪp",
+      "translation": "cửa tiệm"
+    },
+    {
+      "lemma": "sit",
+      "ipa": "sɪt",
+      "translation": "ngồi"
+    },
+    {
+      "lemma": "table",
+      "ipa": "ˈteɪbl",
+      "translation": "bàn"
+    },
+    {
+      "lemma": "very",
+      "ipa": "ˈveri",
+      "translation": "rất"
+    },
+    {
+      "lemma": "write",
+      "ipa": "raɪt",
+      "translation": "viết"
+    },
+    {
+      "lemma": "air",
+      "ipa": "eə(r)",
+      "translation": "không khí"
+    },
+    {
+      "lemma": "black",
+      "ipa": "blæk",
+      "translation": "đen"
+    },
+    {
+      "lemma": "cinema",
+      "ipa": "ˈsɪnəmə",
+      "translation": "Rạp chiếu phim"
+    },
+    {
+      "lemma": "daughter",
+      "ipa": "dɔːtə(r)",
+      "translation": "Con gái"
+    },
+    {
+      "lemma": "eat",
+      "ipa": "iːt",
+      "translation": "ăn"
+    },
+    {
+      "lemma": "from",
+      "ipa": "frɒm",
+      "translation": "từ"
+    },
+    {
+      "lemma": "good",
+      "ipa": "ɡʊd",
+      "translation": "tốt"
+    },
+    {
+      "lemma": "head",
+      "ipa": "hed",
+      "translation": "cái đầu"
+    },
+    {
+      "lemma": "cheese",
+      "ipa": "tʃiːz",
+      "translation": "phô mai"
+    },
+    {
+      "lemma": "important",
+      "ipa": "ɪmˈpɔːtnt",
+      "translation": "quan trọng"
+    },
+    {
+      "lemma": "land",
+      "ipa": "lænd",
+      "translation": "đất đai"
+    },
+    {
+      "lemma": "money",
+      "ipa": "ˈmʌni",
+      "translation": "tiền bạc"
+    },
+    {
+      "lemma": "pay",
+      "ipa": "peɪ",
+      "translation": "trả"
+    },
+    {
+      "lemma": "problem",
+      "ipa": "ˈprɒbləm",
+      "translation": "vấn đề"
+    },
+    {
+      "lemma": "run",
+      "ipa": "rʌn",
+      "translation": "chạy"
+    },
+    {
+      "lemma": "same",
+      "ipa": "seɪm",
+      "translation": "tương tự"
+    },
+    {
+      "lemma": "see",
+      "ipa": "siː",
+      "translation": "xem"
+    },
+    {
+      "lemma": "send",
+      "ipa": "send",
+      "translation": "gửi"
+    },
+    {
+      "lemma": "thing",
+      "ipa": "θɪŋ",
+      "translation": "Điều"
+    },
+    {
+      "lemma": "work",
+      "ipa": "wɜːk",
+      "translation": "công việc"
+    },
+    {
+      "lemma": "any",
+      "ipa": "ˈeni",
+      "translation": "bất kì"
+    },
+    {
+      "lemma": "as",
+      "ipa": "æz",
+      "translation": "như"
+    },
+    {
+      "lemma": "better",
+      "ipa": "ˈbetə(r)",
+      "translation": "tốt hơn"
+    },
+    {
+      "lemma": "cold",
+      "ipa": "kəʊld",
+      "translation": "lạnh"
+    },
+    {
+      "lemma": "come",
+      "ipa": "kʌm",
+      "translation": "đến"
+    },
+    {
+      "lemma": "doctor",
+      "ipa": "ˈdɒktə(r)",
+      "translation": "Bác sĩ"
+    },
+    {
+      "lemma": "find",
+      "ipa": "faɪnd",
+      "translation": "tìm thấy"
+    },
+    {
+      "lemma": "game",
+      "ipa": "ɡeɪm",
+      "translation": "trò chơi"
+    },
+    {
+      "lemma": "idea",
+      "ipa": "aɪˈdɪə",
+      "translation": "ý tưởng"
+    },
+    {
+      "lemma": "kind",
+      "ipa": "kaɪnd",
+      "translation": "Tốt bụng"
+    },
+    {
+      "lemma": "live",
+      "ipa": "laɪv",
+      "translation": "trực tiếp"
+    },
+    {
+      "lemma": "make",
+      "ipa": "meɪk",
+      "translation": "làm"
+    },
+    {
+      "lemma": "peace",
+      "ipa": "piːs",
+      "translation": "Sự thanh bình"
+    },
+    {
+      "lemma": "popular",
+      "ipa": "ˈpɒpjələ(r)",
+      "translation": "phổ biến"
+    },
+    {
+      "lemma": "right",
+      "ipa": "raɪt",
+      "translation": "đúng"
+    },
+    {
+      "lemma": "small",
+      "ipa": "smɔːl",
+      "translation": "nhỏ"
+    },
+    {
+      "lemma": "so",
+      "ipa": "səʊ",
+      "translation": "vì thế"
+    },
+    {
+      "lemma": "some",
+      "ipa": "sʌm",
+      "translation": "một số"
+    },
+    {
+      "lemma": "there",
+      "ipa": "ðeə(r)",
+      "translation": "ở đó"
+    },
+    {
+      "lemma": "wait",
+      "ipa": "weɪt",
+      "translation": "chờ đợi"
+    },
+    {
+      "lemma": "again",
+      "ipa": "əˈɡen",
+      "translation": "lần nữa"
+    },
+    {
+      "lemma": "back",
+      "ipa": "bæk",
+      "translation": "trở lại"
+    },
+    {
+      "lemma": "could",
+      "ipa": "kʊd",
+      "translation": "có thể"
+    },
+    {
+      "lemma": "document",
+      "ipa": "ˈdɒkjumənt",
+      "translation": "tài liệu"
+    },
+    {
+      "lemma": "egg",
+      "ipa": "eɡ",
+      "translation": "trứng"
+    },
+    {
+      "lemma": "fire",
+      "ipa": "ˈfaɪə(r)",
+      "translation": "ngọn lửa"
+    },
+    {
+      "lemma": "give",
+      "ipa": "ɡɪv",
+      "translation": "đưa cho"
+    },
+    {
+      "lemma": "chance",
+      "ipa": "tʃɑːns",
+      "translation": "cơ hội"
+    },
+    {
+      "lemma": "information",
+      "ipa": "ˌɪnfəˈmeɪʃn",
+      "translation": "thông tin"
+    },
+    {
+      "lemma": "light",
+      "ipa": "laɪt",
+      "translation": "ánh sáng"
+    },
+    {
+      "lemma": "may",
+      "ipa": "meɪ",
+      "translation": "có thể"
+    },
+    {
+      "lemma": "often",
+      "ipa": "ˈɒftən",
+      "translation": "thường xuyên"
+    },
+    {
+      "lemma": "prefer",
+      "ipa": "prɪˈfɜː(r)",
+      "translation": "thích hơn"
+    },
+    {
+      "lemma": "put",
+      "ipa": "pʊt",
+      "translation": "đặt"
+    },
+    {
+      "lemma": "red",
+      "ipa": "red",
+      "translation": "đỏ"
+    },
+    {
+      "lemma": "stone",
+      "ipa": "stəʊn",
+      "translation": "sỏi"
+    },
+    {
+      "lemma": "such",
+      "ipa": "sʌtʃ",
+      "translation": "như là"
+    },
+    {
+      "lemma": "think",
+      "ipa": "θɪŋk",
+      "translation": "suy nghĩ"
+    },
+    {
+      "lemma": "understand",
+      "ipa": "ˌʌndəˈstænd",
+      "translation": "hiểu biết"
+    },
+    {
+      "lemma": "visit",
+      "ipa": "ˈvɪzɪt",
+      "translation": "chuyến thăm"
+    },
+    {
+      "lemma": "around",
+      "ipa": "əˈraʊnd",
+      "translation": "xung quanh"
+    },
+    {
+      "lemma": "best",
+      "ipa": "best",
+      "translation": "tốt"
+    },
+    {
+      "lemma": "call",
+      "ipa": "kɔːl",
+      "translation": "gọi"
+    },
+    {
+      "lemma": "cut",
+      "ipa": "kʌt",
+      "translation": "cắt"
+    },
+    {
+      "lemma": "dinner",
+      "ipa": "ˈdɪnə(r)",
+      "translation": "bữa tối"
+    },
+    {
+      "lemma": "down",
+      "ipa": "daʊn",
+      "translation": "xuống"
+    },
+    {
+      "lemma": "explain",
+      "ipa": "ɪkˈspleɪn",
+      "translation": "giải thích"
+    },
+    {
+      "lemma": "get",
+      "ipa": "ɡet",
+      "translation": "được"
+    },
+    {
+      "lemma": "interesting",
+      "ipa": "ˈɪntrəstɪŋ",
+      "translation": "hấp dẫn"
+    },
+    {
+      "lemma": "long",
+      "ipa": "lɒŋ",
+      "translation": "Dài"
+    },
+    {
+      "lemma": "move",
+      "ipa": "muːv",
+      "translation": "di chuyển"
+    },
+    {
+      "lemma": "out",
+      "ipa": "aʊt",
+      "translation": "ngoài"
+    },
+    {
+      "lemma": "page",
+      "ipa": "peɪdʒ",
+      "translation": "trang"
+    },
+    {
+      "lemma": "reach",
+      "ipa": "riːtʃ",
+      "translation": "chạm tới"
+    },
+    {
+      "lemma": "rest",
+      "ipa": "rest",
+      "translation": "nghỉ ngơi"
+    },
+    {
+      "lemma": "set",
+      "ipa": "set",
+      "translation": "bộ"
+    },
+    {
+      "lemma": "should",
+      "ipa": "ʃʊd",
+      "translation": "Nên"
+    },
+    {
+      "lemma": "stand",
+      "ipa": "stænd",
+      "translation": "đứng"
+    },
+    {
+      "lemma": "time",
+      "ipa": "taɪm",
+      "translation": "thời gian"
+    },
+    {
+      "lemma": "up",
+      "ipa": "ʌp",
+      "translation": "lên"
+    },
+    {
+      "lemma": "age",
+      "ipa": "eɪdʒ",
+      "translation": "tuổi tác"
+    },
+    {
+      "lemma": "because",
+      "ipa": "bɪˈkəz",
+      "translation": "bởi vì"
+    },
+    {
+      "lemma": "big",
+      "ipa": "bɪɡ",
+      "translation": "to"
+    },
+    {
+      "lemma": "camera",
+      "ipa": "ˈkæmrə",
+      "translation": "Máy ảnh"
+    },
+    {
+      "lemma": "city",
+      "ipa": "ˈsɪti",
+      "translation": "thành phố"
+    },
+    {
+      "lemma": "dress",
+      "ipa": "dres",
+      "translation": "trang phục"
+    },
+    {
+      "lemma": "evening",
+      "ipa": "ˈiːvnɪŋ",
+      "translation": "tối"
+    },
+    {
+      "lemma": "free",
+      "ipa": "friː",
+      "translation": "miễn phí"
+    },
+    {
+      "lemma": "have",
+      "ipa": "hæv",
+      "translation": "có"
+    },
+    {
+      "lemma": "ill",
+      "ipa": "ɪl",
+      "translation": "tôi sẽ"
+    },
+    {
+      "lemma": "like",
+      "ipa": "laɪk",
+      "translation": "giống"
+    },
+    {
+      "lemma": "mother",
+      "ipa": "ˈmʌðə(r)",
+      "translation": "mẹ"
+    },
+    {
+      "lemma": "old",
+      "ipa": "əʊld",
+      "translation": "cũ"
+    },
+    {
+      "lemma": "police",
+      "ipa": "pəˈliːs",
+      "translation": "cảnh sát"
+    },
+    {
+      "lemma": "remember",
+      "ipa": "rɪˈmembə(r)",
+      "translation": "nhớ lại"
+    },
+    {
+      "lemma": "street",
+      "ipa": "striːt",
+      "translation": "đường phố"
+    },
+    {
+      "lemma": "study",
+      "ipa": "ˈstʌdi",
+      "translation": "học"
+    },
+    {
+      "lemma": "teacher",
+      "ipa": "ˈtiːtʃə(r)",
+      "translation": "giáo viên"
+    },
+    {
+      "lemma": "voice",
+      "ipa": "vɔɪs",
+      "translation": "tiếng nói"
+    },
+    {
+      "lemma": "water",
+      "ipa": "ˈwɔːtə(r)",
+      "translation": "Nước"
+    },
+    {
+      "lemma": "also",
+      "ipa": "ˈɔːlsəʊ",
+      "translation": "cũng thế"
+    },
+    {
+      "lemma": "box",
+      "ipa": "bɒks",
+      "translation": "cái hộp"
+    },
+    {
+      "lemma": "class",
+      "ipa": "klɑːs",
+      "translation": "lớp học"
+    },
+    {
+      "lemma": "difficult",
+      "ipa": "ˈdɪfɪkəlt",
+      "translation": "khó khăn"
+    },
+    {
+      "lemma": "drive",
+      "ipa": "draɪv",
+      "translation": "lái xe"
+    },
+    {
+      "lemma": "food",
+      "ipa": "fuːd",
+      "translation": "món ăn"
+    },
+    {
+      "lemma": "great",
+      "ipa": "ɡreɪt",
+      "translation": "tuyệt quá"
+    },
+    {
+      "lemma": "happy",
+      "ipa": "ˈhæpi",
+      "translation": "vui mừng"
+    },
+    {
+      "lemma": "change",
+      "ipa": "tʃeɪndʒ",
+      "translation": "thay đổi"
+    },
+    {
+      "lemma": "juice",
+      "ipa": "dʒuːs",
+      "translation": "Nước ép"
+    },
+    {
+      "lemma": "meet",
+      "ipa": "miːt",
+      "translation": "gặp"
+    },
+    {
+      "lemma": "need",
+      "ipa": "niːd",
+      "translation": "nhu cầu"
+    },
+    {
+      "lemma": "pretty",
+      "ipa": "ˈprɪti",
+      "translation": "đẹp"
+    },
+    {
+      "lemma": "quite",
+      "ipa": "kwaɪt",
+      "translation": "khá"
+    },
+    {
+      "lemma": "real",
+      "ipa": "ˈriːəl",
+      "translation": "thực tế"
+    },
+    {
+      "lemma": "sad",
+      "ipa": "sæd",
+      "translation": "buồn"
+    },
+    {
+      "lemma": "spring",
+      "ipa": "sprɪŋ",
+      "translation": "mùa xuân"
+    },
+    {
+      "lemma": "star",
+      "ipa": "stɑː(r)",
+      "translation": "ngôi sao"
+    },
+    {
+      "lemma": "take",
+      "ipa": "teɪk",
+      "translation": "lấy"
+    },
+    {
+      "lemma": "yes",
+      "ipa": "jes",
+      "translation": "Đúng"
+    },
+    {
+      "lemma": "action",
+      "ipa": "ˈækʃn",
+      "translation": "hoạt động"
+    },
+    {
+      "lemma": "alone",
+      "ipa": "əˈləʊn",
+      "translation": "một mình"
+    },
+    {
+      "lemma": "breakfast",
+      "ipa": "ˈbrekfəst",
+      "translation": "bữa ăn sáng"
+    },
+    {
+      "lemma": "continue",
+      "ipa": "kənˈtɪnjuː",
+      "translation": "tiếp tục"
+    },
+    {
+      "lemma": "dead",
+      "ipa": "ded",
+      "translation": "đã chết"
+    },
+    {
+      "lemma": "enjoy",
+      "ipa": "ɪnˈdʒɔɪ",
+      "translation": "thưởng thức"
+    },
+    {
+      "lemma": "full",
+      "ipa": "fʊl",
+      "translation": "đầy"
+    },
+    {
+      "lemma": "garden",
+      "ipa": "ˈɡɑːdn",
+      "translation": "vườn"
+    },
+    {
+      "lemma": "house",
+      "ipa": "haʊs",
+      "translation": "nhà ở"
+    },
+    {
+      "lemma": "journey",
+      "ipa": "ˈdʒɜːni",
+      "translation": "hành trình"
+    },
+    {
+      "lemma": "much",
+      "ipa": "mʌtʃ",
+      "translation": "nhiều"
+    },
+    {
+      "lemma": "nothing",
+      "ipa": "ˈnʌθɪŋ",
+      "translation": "không có gì"
+    },
+    {
+      "lemma": "phone",
+      "ipa": "fəʊn",
+      "translation": "điện thoại"
+    },
+    {
+      "lemma": "price",
+      "ipa": "praɪs",
+      "translation": "giá bán"
+    },
+    {
+      "lemma": "result",
+      "ipa": "rɪˈzʌlt",
+      "translation": "kết quả"
+    },
+    {
+      "lemma": "sister",
+      "ipa": "ˈsɪstə(r)",
+      "translation": "em gái"
+    },
+    {
+      "lemma": "sun",
+      "ipa": "sʌn",
+      "translation": "mặt trời"
+    },
+    {
+      "lemma": "tell",
+      "ipa": "tel",
+      "translation": "nói"
+    },
+    {
+      "lemma": "view",
+      "ipa": "vjuː",
+      "translation": "lượt xem"
+    },
+    {
+      "lemma": "with",
+      "ipa": "wɪð",
+      "translation": "với"
+    },
+    {
+      "lemma": "against",
+      "ipa": "əˈɡenst",
+      "translation": "chống lại"
+    },
+    {
+      "lemma": "bus",
+      "ipa": "bʌs",
+      "translation": "xe buýt"
+    },
+    {
+      "lemma": "company",
+      "ipa": "ˈkʌmpəni",
+      "translation": "Công ty"
+    },
+    {
+      "lemma": "desert (n)",
+      "ipa": "ˈdezət",
+      "translation": "Sa mạc"
+    },
+    {
+      "lemma": "expensive",
+      "ipa": "ɪkˈspensɪv",
+      "translation": "đắt"
+    },
+    {
+      "lemma": "flower",
+      "ipa": "ˈflaʊə(r)",
+      "translation": "bông hoa"
+    },
+    {
+      "lemma": "green",
+      "ipa": "ɡriːn",
+      "translation": "màu xanh lá"
+    },
+    {
+      "lemma": "church",
+      "ipa": "tʃɜːtʃ",
+      "translation": "nhà thờ"
+    },
+    {
+      "lemma": "impossible",
+      "ipa": "ɪmˈpɒsəbl",
+      "translation": "Không thể nào"
+    },
+    {
+      "lemma": "leave",
+      "ipa": "liːv",
+      "translation": "rời khỏi"
+    },
+    {
+      "lemma": "month",
+      "ipa": "mʌnθ",
+      "translation": "tháng"
+    },
+    {
+      "lemma": "on",
+      "ipa": "ɒn",
+      "translation": "trên"
+    },
+    {
+      "lemma": "plan",
+      "ipa": "plæn",
+      "translation": "kế hoạch"
+    },
+    {
+      "lemma": "possible",
+      "ipa": "ˈpɒsəbl",
+      "translation": "khả thi"
+    },
+    {
+      "lemma": "return",
+      "ipa": "rɪˈtɜːn",
+      "translation": "trở về"
+    },
+    {
+      "lemma": "save",
+      "ipa": "seɪv",
+      "translation": "tiết kiệm"
+    },
+    {
+      "lemma": "sea",
+      "ipa": "siː",
+      "translation": "biển"
+    },
+    {
+      "lemma": "something",
+      "ipa": "ˈsʌmθɪŋ",
+      "translation": "cái gì đó"
+    },
+    {
+      "lemma": "together",
+      "ipa": "təˈɡeðə(r)",
+      "translation": "cùng với nhau"
+    },
+    {
+      "lemma": "woman",
+      "ipa": "ˈwʊmən",
+      "translation": "đàn bà"
+    },
+    {
+      "lemma": "anything",
+      "ipa": "ˈeniθɪŋ",
+      "translation": "bất cứ thứ gì"
+    },
+    {
+      "lemma": "army",
+      "ipa": "ˈɑːmi",
+      "translation": "quân đội"
+    },
+    {
+      "lemma": "bad",
+      "ipa": "bæd",
+      "translation": "xấu"
+    },
+    {
+      "lemma": "cover",
+      "ipa": "ˈkʌvə(r)",
+      "translation": "che"
+    },
+    {
+      "lemma": "culture",
+      "ipa": "ˈkʌltʃə(r)",
+      "translation": "văn hóa"
+    },
+    {
+      "lemma": "decision",
+      "ipa": "dɪˈsɪʒn",
+      "translation": "phán quyết"
+    },
+    {
+      "lemma": "example",
+      "ipa": "ɪɡˈzɑːmpl",
+      "translation": "thí dụ"
+    },
+    {
+      "lemma": "feel",
+      "ipa": "fiːl",
+      "translation": "cảm thấy"
+    },
+    {
+      "lemma": "how",
+      "ipa": "haʊ",
+      "translation": "làm sao"
+    },
+    {
+      "lemma": "island",
+      "ipa": "ˈaɪlənd",
+      "translation": "Đảo"
+    },
+    {
+      "lemma": "member",
+      "ipa": "ˈmembə(r)",
+      "translation": "thành viên"
+    },
+    {
+      "lemma": "next",
+      "ipa": "nekst",
+      "translation": "kế tiếp"
+    },
+    {
+      "lemma": "position",
+      "ipa": "pəˈzɪʃn",
+      "translation": "Chức vụ"
+    },
+    {
+      "lemma": "present (adj)",
+      "ipa": "ˈpreznt",
+      "translation": "hiện tại"
+    },
+    {
+      "lemma": "record (n)",
+      "ipa": "ˈrekɔːd",
+      "translation": "ghi lại"
+    },
+    {
+      "lemma": "sleep",
+      "ipa": "sliːp",
+      "translation": "ngủ"
+    },
+    {
+      "lemma": "sweet",
+      "ipa": "swiːt",
+      "translation": "ngọt"
+    },
+    {
+      "lemma": "try",
+      "ipa": "traɪ",
+      "translation": "thử"
+    },
+    {
+      "lemma": "under",
+      "ipa": "ˈʌndə(r)",
+      "translation": "Dưới"
+    },
+    {
+      "lemma": "world",
+      "ipa": "wɜːld",
+      "translation": "thế giới"
+    },
+    {
+      "lemma": "after",
+      "ipa": "ˈɑːftə(r)",
+      "translation": "sau"
+    },
+    {
+      "lemma": "bed",
+      "ipa": "bed",
+      "translation": "Giường"
+    },
+    {
+      "lemma": "buy",
+      "ipa": "baɪ",
+      "translation": "mua"
+    },
+    {
+      "lemma": "catch",
+      "ipa": "kætʃ",
+      "translation": "nắm lấy"
+    },
+    {
+      "lemma": "corner",
+      "ipa": "ˈkɔːnə(r)",
+      "translation": "góc"
+    },
+    {
+      "lemma": "distance",
+      "ipa": "ˈdɪstəns",
+      "translation": "khoảng cách"
+    },
+    {
+      "lemma": "education",
+      "ipa": "ˌedʒuˈkeɪʃn",
+      "translation": "giáo dục"
+    },
+    {
+      "lemma": "fast",
+      "ipa": "fɑːst",
+      "translation": "Nhanh"
+    },
+    {
+      "lemma": "here",
+      "ipa": "hɪə(r)",
+      "translation": "đây"
+    },
+    {
+      "lemma": "interest",
+      "ipa": "ɪntrəst",
+      "translation": "quan tâm"
+    },
+    {
+      "lemma": "letter",
+      "ipa": "ˈletə(r)",
+      "translation": "lá thư"
+    },
+    {
+      "lemma": "never",
+      "ipa": "ˈnevə(r)",
+      "translation": "không bao giờ"
+    },
+    {
+      "lemma": "part",
+      "ipa": "pɑːt",
+      "translation": "phần"
+    },
+    {
+      "lemma": "president",
+      "ipa": "ˈprezɪdənt",
+      "translation": "chủ tịch"
+    },
+    {
+      "lemma": "round",
+      "ipa": "raʊnd",
+      "translation": "tròn"
+    },
+    {
+      "lemma": "several",
+      "ipa": "ˈsevrəl",
+      "translation": "một số"
+    },
+    {
+      "lemma": "sound",
+      "ipa": "saʊnd",
+      "translation": "âm thanh"
+    },
+    {
+      "lemma": "story",
+      "ipa": "ˈstɔːri",
+      "translation": "câu chuyện"
+    },
+    {
+      "lemma": "talk",
+      "ipa": "tɔːk",
+      "translation": "nói chuyện"
+    },
+    {
+      "lemma": "week",
+      "ipa": "wiːk",
+      "translation": "tuần"
+    },
+    {
+      "lemma": "almost",
+      "ipa": "ˈɔːlməʊst",
+      "translation": "hầu hết"
+    },
+    {
+      "lemma": "bread",
+      "ipa": "bred",
+      "translation": "bánh mỳ"
+    },
+    {
+      "lemma": "control",
+      "ipa": "kənˈtrəʊl",
+      "translation": "điều khiển"
+    },
+    {
+      "lemma": "dear",
+      "ipa": "dɪə(r)",
+      "translation": "kính thưa"
+    },
+    {
+      "lemma": "every",
+      "ipa": "ˈevri",
+      "translation": "mỗi"
+    },
+    {
+      "lemma": "few",
+      "ipa": "fjuː",
+      "translation": "vài"
+    },
+    {
+      "lemma": "gold",
+      "ipa": "ɡəʊld",
+      "translation": "vàng"
+    },
+    {
+      "lemma": "chief",
+      "ipa": "tʃiːf",
+      "translation": "trưởng phòng"
+    },
+    {
+      "lemma": "invite",
+      "ipa": "ɪnˈvaɪt",
+      "translation": "mời gọi"
+    },
+    {
+      "lemma": "late",
+      "ipa": "leɪt",
+      "translation": "muộn"
+    },
+    {
+      "lemma": "most",
+      "ipa": "məʊst",
+      "translation": "phần lớn"
+    },
+    {
+      "lemma": "only",
+      "ipa": "ˈəʊnli",
+      "translation": "chỉ có"
+    },
+    {
+      "lemma": "product",
+      "ipa": "ˈprɒdʌkt",
+      "translation": "sản phẩm"
+    },
+    {
+      "lemma": "public",
+      "ipa": "ˈpʌblɪk",
+      "translation": "công cộng"
+    },
+    {
+      "lemma": "receive",
+      "ipa": "rɪˈsiːv",
+      "translation": "nhận được"
+    },
+    {
+      "lemma": "sorry",
+      "ipa": "ˈsɒri",
+      "translation": "lấy làm tiếc"
+    },
+    {
+      "lemma": "strong",
+      "ipa": "strɒŋ",
+      "translation": "mạnh"
+    },
+    {
+      "lemma": "then",
+      "ipa": "ðen",
+      "translation": "sau đó"
+    },
+    {
+      "lemma": "too",
+      "ipa": "tuː",
+      "translation": "quá"
+    },
+    {
+      "lemma": "way",
+      "ipa": "weɪ",
+      "translation": "đường"
+    },
+    {
+      "lemma": "across",
+      "ipa": "əˈkrɒs",
+      "translation": "băng qua"
+    },
+    {
+      "lemma": "art",
+      "ipa": "ɑːt",
+      "translation": "nghệ thuật"
+    },
+    {
+      "lemma": "bring",
+      "ipa": "brɪŋ",
+      "translation": "mang đến"
+    },
+    {
+      "lemma": "carry",
+      "ipa": "ˈkæri",
+      "translation": "mang"
+    },
+    {
+      "lemma": "confirm",
+      "ipa": "kənˈfɜːm",
+      "translation": "xác nhận"
+    },
+    {
+      "lemma": "die",
+      "ipa": "daɪ",
+      "translation": "chết"
+    },
+    {
+      "lemma": "east",
+      "ipa": "iːst",
+      "translation": "phía đông"
+    },
+    {
+      "lemma": "group",
+      "ipa": "ɡruːp",
+      "translation": "nhóm"
+    },
+    {
+      "lemma": "hope",
+      "ipa": "həʊp",
+      "translation": "mong"
+    },
+    {
+      "lemma": "industry",
+      "ipa": "ˈɪndəstri",
+      "translation": "ngành công nghiệp"
+    },
+    {
+      "lemma": "look",
+      "ipa": "lʊk",
+      "translation": "nhìn"
+    },
+    {
+      "lemma": "must",
+      "ipa": "mʌst",
+      "translation": "phải"
+    },
+    {
+      "lemma": "own",
+      "ipa": "əʊn",
+      "translation": "sở hữu"
+    },
+    {
+      "lemma": "personal",
+      "ipa": "ˈpɜːsənl",
+      "translation": "cá nhân"
+    },
+    {
+      "lemma": "reason",
+      "ipa": "ˈriːzn",
+      "translation": "lý do"
+    },
+    {
+      "lemma": "service",
+      "ipa": "ˈsɜːvɪs",
+      "translation": "dịch vụ"
+    },
+    {
+      "lemma": "shall",
+      "ipa": "ʃæl",
+      "translation": "sẽ"
+    },
+    {
+      "lemma": "stay",
+      "ipa": "steɪ",
+      "translation": "ở lại"
+    },
+    {
+      "lemma": "their",
+      "ipa": "ðeə(r)",
+      "translation": "của chúng"
+    },
+    {
+      "lemma": "wife",
+      "ipa": "waɪf",
+      "translation": "người vợ"
+    },
+    {
+      "lemma": "away",
+      "ipa": "əˈweɪ",
+      "translation": "xa"
+    },
+    {
+      "lemma": "beautiful",
+      "ipa": "ˈbjuːtɪfl",
+      "translation": "xinh đẹp"
+    },
+    {
+      "lemma": "care",
+      "ipa": "keə(r)",
+      "translation": "quan tâm"
+    },
+    {
+      "lemma": "cost",
+      "ipa": "kɒst",
+      "translation": "Giá cả"
+    },
+    {
+      "lemma": "deep",
+      "ipa": "diːp",
+      "translation": "sâu"
+    },
+    {
+      "lemma": "enough",
+      "ipa": "ɪˈnʌf",
+      "translation": "đủ"
+    },
+    {
+      "lemma": "fight",
+      "ipa": "faɪt",
+      "translation": "Đánh nhau"
+    },
+    {
+      "lemma": "garage",
+      "ipa": "ˈɡærɪdʒ",
+      "translation": "nhà để xe"
+    },
+    {
+      "lemma": "into",
+      "ipa": "ˈɪntuː",
+      "translation": "thành"
+    },
+    {
+      "lemma": "keep",
+      "ipa": "kiːp",
+      "translation": "giữ"
+    },
+    {
+      "lemma": "miss",
+      "ipa": "mɪs",
+      "translation": "cô"
+    },
+    {
+      "lemma": "other",
+      "ipa": "ˈʌðə(r)",
+      "translation": "khác"
+    },
+    {
+      "lemma": "player",
+      "ipa": "ˈpleɪə(r)",
+      "translation": "người chơi"
+    },
+    {
+      "lemma": "rather",
+      "ipa": "ˈrɑːðə(r)",
+      "translation": "hơn"
+    },
+    {
+      "lemma": "remain",
+      "ipa": "rɪˈmeɪn",
+      "translation": "còn lại"
+    },
+    {
+      "lemma": "side",
+      "ipa": "saɪd",
+      "translation": "bên"
+    },
+    {
+      "lemma": "south",
+      "ipa": "saʊθ",
+      "translation": "miền Nam"
+    },
+    {
+      "lemma": "true",
+      "ipa": "truː",
+      "translation": "sự thật"
+    },
+    {
+      "lemma": "use",
+      "ipa": "juːz",
+      "translation": "sử dụng"
+    },
+    {
+      "lemma": "who",
+      "ipa": "huː",
+      "translation": "kẻ nào"
+    },
+    {
+      "lemma": "already",
+      "ipa": "ɔːlˈredi",
+      "translation": "đã sẵn sàng"
+    },
+    {
+      "lemma": "become",
+      "ipa": "bɪˈkʌm",
+      "translation": "trở nên"
+    },
+    {
+      "lemma": "cause",
+      "ipa": "kɔːz",
+      "translation": "nguyên nhân"
+    },
+    {
+      "lemma": "certain",
+      "ipa": "ˈsɜːtn",
+      "translation": "chắc chắn"
+    },
+    {
+      "lemma": "describe",
+      "ipa": "dɪˈskraɪb",
+      "translation": "diễn tả"
+    },
+    {
+      "lemma": "dry",
+      "ipa": "draɪ",
+      "translation": "khô"
+    },
+    {
+      "lemma": "expect",
+      "ipa": "ɪkˈspekt",
+      "translation": "chờ đợi"
+    },
+    {
+      "lemma": "fact",
+      "ipa": "fækt",
+      "translation": "thực tế"
+    },
+    {
+      "lemma": "hard",
+      "ipa": "hɑːd",
+      "translation": "cứng"
+    },
+    {
+      "lemma": "include",
+      "ipa": "ɪnˈkluːd",
+      "translation": "bao gồm"
+    },
+    {
+      "lemma": "let",
+      "ipa": "let",
+      "translation": "để cho"
+    },
+    {
+      "lemma": "moment",
+      "ipa": "ˈməʊmənt",
+      "translation": "chốc lát"
+    },
+    {
+      "lemma": "power",
+      "ipa": "ˈpaʊə(r)",
+      "translation": "quyền lực"
+    },
+    {
+      "lemma": "provide",
+      "ipa": "prəˈvaɪd",
+      "translation": "cung cấp"
+    },
+    {
+      "lemma": "report",
+      "ipa": "rɪˈpɔːt",
+      "translation": "báo cáo"
+    },
+    {
+      "lemma": "seat",
+      "ipa": "siːt",
+      "translation": "ghế"
+    },
+    {
+      "lemma": "single",
+      "ipa": "ˈsɪŋɡl",
+      "translation": "Độc thân"
+    },
+    {
+      "lemma": "system",
+      "ipa": "ˈsɪstəm",
+      "translation": "hệ thống"
+    },
+    {
+      "lemma": "through",
+      "ipa": "θruː",
+      "translation": "xuyên qua"
+    },
+    {
+      "lemma": "which",
+      "ipa": "wɪtʃ",
+      "translation": "cái nào"
+    },
+    {
+      "lemma": "apple",
+      "ipa": "ˈæpl",
+      "translation": "táo"
+    },
+    {
+      "lemma": "blue",
+      "ipa": "bluː",
+      "translation": "màu xanh da trời"
+    },
+    {
+      "lemma": "clock",
+      "ipa": "klɒk",
+      "translation": "đồng hồ"
+    },
+    {
+      "lemma": "colour",
+      "ipa": "ˈkʌlə(r)",
+      "translation": "màu sắc"
+    },
+    {
+      "lemma": "different",
+      "ipa": "ˈdɪfrənt",
+      "translation": "khác nhau"
+    },
+    {
+      "lemma": "earth",
+      "ipa": "ɜːθ",
+      "translation": "Trái đất"
+    },
+    {
+      "lemma": "film",
+      "ipa": "fɪlm",
+      "translation": "phim ảnh"
+    },
+    {
+      "lemma": "glad",
+      "ipa": "ɡlæd",
+      "translation": "vui vẻ"
+    },
+    {
+      "lemma": "hour",
+      "ipa": "ˈaʊə(r)",
+      "translation": "giờ"
+    },
+    {
+      "lemma": "just",
+      "ipa": "dʒʌst",
+      "translation": "chỉ"
+    },
+    {
+      "lemma": "love",
+      "ipa": "lʌv",
+      "translation": "yêu và quý"
+    },
+    {
+      "lemma": "number",
+      "ipa": "ˈnʌmbə(r)",
+      "translation": "con số"
+    },
+    {
+      "lemma": "pencil",
+      "ipa": "ˈpensl",
+      "translation": "bút chì"
+    },
+    {
+      "lemma": "quick",
+      "ipa": "kwɪk",
+      "translation": "nhanh chóng"
+    },
+    {
+      "lemma": "rain",
+      "ipa": "reɪn",
+      "translation": "mưa"
+    },
+    {
+      "lemma": "simple",
+      "ipa": "ˈsɪmpl",
+      "translation": "đơn giản"
+    },
+    {
+      "lemma": "summer",
+      "ipa": "ˈsʌmə(r)",
+      "translation": "mùa hè"
+    },
+    {
+      "lemma": "town",
+      "ipa": "taʊn",
+      "translation": "thị trấn"
+    },
+    {
+      "lemma": "tree",
+      "ipa": "triː",
+      "translation": "cây"
+    },
+    {
+      "lemma": "window",
+      "ipa": "ˈwɪndəʊ",
+      "translation": "cửa sổ"
+    },
+    {
+      "lemma": "address",
+      "ipa": "əˈdres",
+      "translation": "Địa chỉ"
+    },
+    {
+      "lemma": "building",
+      "ipa": "ˈbɪldɪŋ",
+      "translation": "xây dựng"
+    },
+    {
+      "lemma": "computer",
+      "ipa": "kəmˈpjuːtə(r)",
+      "translation": "máy vi tính"
+    },
+    {
+      "lemma": "cross",
+      "ipa": "krɒs",
+      "translation": "vượt qua"
+    },
+    {
+      "lemma": "desk",
+      "ipa": "desk",
+      "translation": "bàn"
+    },
+    {
+      "lemma": "ear",
+      "ipa": "ɪə(r)",
+      "translation": "tai"
+    },
+    {
+      "lemma": "fish",
+      "ipa": "fɪʃ",
+      "translation": "cá"
+    },
+    {
+      "lemma": "glass",
+      "ipa": "ɡlɑːs",
+      "translation": "cốc thủy tinh"
+    },
+    {
+      "lemma": "ice",
+      "ipa": "aɪs",
+      "translation": "Nước đá"
+    },
+    {
+      "lemma": "key",
+      "ipa": "kiː",
+      "translation": "Chìa khóa"
+    },
+    {
+      "lemma": "minute (n)",
+      "ipa": "ˈmɪnɪt",
+      "translation": "phút"
+    },
+    {
+      "lemma": "office",
+      "ipa": "ˈɒfɪs",
+      "translation": "văn phòng"
+    },
+    {
+      "lemma": "parent",
+      "ipa": "ˈpeərənt",
+      "translation": "cha mẹ"
+    },
+    {
+      "lemma": "post",
+      "ipa": "pəʊst",
+      "translation": "bài đăng"
+    },
+    {
+      "lemma": "rock",
+      "ipa": "rɒk",
+      "translation": "đá"
+    },
+    {
+      "lemma": "search",
+      "ipa": "sɜːtʃ",
+      "translation": "Tìm kiếm"
+    },
+    {
+      "lemma": "sport",
+      "ipa": "spɔːt",
+      "translation": "thể thao"
+    },
+    {
+      "lemma": "tea",
+      "ipa": "tiː",
+      "translation": "trà"
+    },
+    {
+      "lemma": "valley",
+      "ipa": "ˈvæli",
+      "translation": "thung lũng"
+    },
+    {
+      "lemma": "walk",
+      "ipa": "wɔːk",
+      "translation": "đi bộ"
+    },
+    {
+      "lemma": "airport",
+      "ipa": "ˈeəpɔːt",
+      "translation": "sân bay"
+    },
+    {
+      "lemma": "baby",
+      "ipa": "ˈbeɪbi",
+      "translation": "đứa bé"
+    },
+    {
+      "lemma": "card",
+      "ipa": "kɑːd",
+      "translation": "Thẻ"
+    },
+    {
+      "lemma": "central",
+      "ipa": "ˈsentrəl",
+      "translation": "Trung tâm"
+    },
+    {
+      "lemma": "direction",
+      "ipa": "daɪˈrekʃn",
+      "translation": "phương hướng"
+    },
+    {
+      "lemma": "dollar",
+      "ipa": "ˈdɒlə(r)",
+      "translation": "đô la"
+    },
+    {
+      "lemma": "fruit",
+      "ipa": "fruːt",
+      "translation": "trái cây"
+    },
+    {
+      "lemma": "gift",
+      "ipa": "ɡɪft",
+      "translation": "quà tặng"
+    },
+    {
+      "lemma": "high",
+      "ipa": "ɡɪft",
+      "translation": "cao"
+    },
+    {
+      "lemma": "illness",
+      "ipa": "ˈɪlnəs",
+      "translation": "ốm"
+    },
+    {
+      "lemma": "milk",
+      "ipa": "mɪlk",
+      "translation": "Sữa"
+    },
+    {
+      "lemma": "not",
+      "ipa": "nɒt",
+      "translation": "không phải"
+    },
+    {
+      "lemma": "piece",
+      "ipa": "piːs",
+      "translation": "cái"
+    },
+    {
+      "lemma": "protect",
+      "ipa": "prəˈtekt",
+      "translation": "bảo vệ"
+    },
+    {
+      "lemma": "race",
+      "ipa": "reɪs",
+      "translation": "cuộc đua"
+    },
+    {
+      "lemma": "since",
+      "ipa": "sɪns",
+      "translation": "từ"
+    },
+    {
+      "lemma": "slow",
+      "ipa": "sləʊ",
+      "translation": "chậm"
+    },
+    {
+      "lemma": "smile",
+      "ipa": "smaɪl",
+      "translation": "nụ cười"
+    },
+    {
+      "lemma": "ticket",
+      "ipa": "ˈtɪkɪt",
+      "translation": "vé"
+    },
+    {
+      "lemma": "well",
+      "ipa": "wel",
+      "translation": "tốt"
+    },
+    {
+      "lemma": "accident",
+      "ipa": "ˈæksɪdənt",
+      "translation": "Tai nạn"
+    },
+    {
+      "lemma": "blood",
+      "ipa": "blʌd",
+      "translation": "máu"
+    },
+    {
+      "lemma": "business",
+      "ipa": "ˈbɪznəs",
+      "translation": "kinh doanh"
+    },
+    {
+      "lemma": "during",
+      "ipa": "ˈdjʊərɪŋ",
+      "translation": "suốt trong"
+    },
+    {
+      "lemma": "even",
+      "ipa": "ˈiːvn",
+      "translation": "cũng"
+    },
+    {
+      "lemma": "floor",
+      "ipa": "flɔː(r)",
+      "translation": "sàn nhà"
+    },
+    {
+      "lemma": "general",
+      "ipa": "ˈdʒenrəl",
+      "translation": "chung"
+    },
+    {
+      "lemma": "choose",
+      "ipa": "tʃuːz",
+      "translation": "chọn"
+    },
+    {
+      "lemma": "inform",
+      "ipa": "ɪnˈfɔːm",
+      "translation": "thông báo"
+    },
+    {
+      "lemma": "little",
+      "ipa": "ˈlɪtl",
+      "translation": "ít"
+    },
+    {
+      "lemma": "meeting",
+      "ipa": "ˈmiːtɪŋ",
+      "translation": "gặp gỡ"
+    },
+    {
+      "lemma": "order",
+      "ipa": "ˈɔːdə(r)",
+      "translation": "đặt hàng"
+    },
+    {
+      "lemma": "party",
+      "ipa": "pɑːti",
+      "translation": "buổi tiệc"
+    },
+    {
+      "lemma": "pink",
+      "ipa": "pɪŋk",
+      "translation": "Hồng"
+    },
+    {
+      "lemma": "reply",
+      "ipa": "rɪˈplaɪ",
+      "translation": "Đáp lại"
+    },
+    {
+      "lemma": "snow",
+      "ipa": "snəʊ",
+      "translation": "tuyết"
+    },
+    {
+      "lemma": "sugar",
+      "ipa": "ˈʃʊɡə(r)",
+      "translation": "Đường"
+    },
+    {
+      "lemma": "travel",
+      "ipa": "ˈtrævl",
+      "translation": "du lịch"
+    },
+    {
+      "lemma": "virus",
+      "ipa": "ˈvaɪrəs",
+      "translation": "vi-rút"
+    },
+    {
+      "lemma": "watch",
+      "ipa": "wɒtʃ",
+      "translation": "đồng hồ đeo tay"
+    },
+    {
+      "lemma": "another",
+      "ipa": "əˈnʌðə(r)",
+      "translation": "khác"
+    },
+    {
+      "lemma": "believe",
+      "ipa": "bɪˈliːv",
+      "translation": "tin"
+    },
+    {
+      "lemma": "both",
+      "ipa": "bəʊθ",
+      "translation": "cả hai"
+    },
+    {
+      "lemma": "crazy",
+      "ipa": "ˈkreɪzi",
+      "translation": "khùng"
+    },
+    {
+      "lemma": "cup",
+      "ipa": "kʌp",
+      "translation": "cốc"
+    },
+    {
+      "lemma": "decide",
+      "ipa": "dɪˈsaɪd",
+      "translation": "quyết định"
+    },
+    {
+      "lemma": "ever",
+      "ipa": "ˈevə(r)",
+      "translation": "không bao giờ"
+    },
+    {
+      "lemma": "field",
+      "ipa": "fiːld",
+      "translation": "cánh đồng"
+    },
+    {
+      "lemma": "heart",
+      "ipa": "hɑːt",
+      "translation": "tim"
+    },
+    {
+      "lemma": "imagine",
+      "ipa": "ɪˈmædʒɪn",
+      "translation": "tưởng tượng"
+    },
+    {
+      "lemma": "line",
+      "ipa": "laɪn",
+      "translation": "hàng"
+    },
+    {
+      "lemma": "meat",
+      "ipa": "miːt",
+      "translation": "thịt"
+    },
+    {
+      "lemma": "over",
+      "ipa": "ˈəʊvə(r)",
+      "translation": "kết thúc"
+    },
+    {
+      "lemma": "pull",
+      "ipa": "pʊl",
+      "translation": "kéo"
+    },
+    {
+      "lemma": "ring",
+      "ipa": "rɪŋ",
+      "translation": "nhẫn"
+    },
+    {
+      "lemma": "sell",
+      "ipa": "sel",
+      "translation": "bán"
+    },
+    {
+      "lemma": "similar",
+      "ipa": "ˈsɪmələ(r)",
+      "translation": "giống"
+    },
+    {
+      "lemma": "speed",
+      "ipa": "spiːd",
+      "translation": "tốc độ"
+    },
+    {
+      "lemma": "than",
+      "ipa": "ðæn",
+      "translation": "hơn"
+    },
+    {
+      "lemma": "your",
+      "ipa": "jɔː(r)",
+      "translation": "của bạn"
+    },
+    {
+      "lemma": "above",
+      "ipa": "əˈbʌv",
+      "translation": "ở trên"
+    },
+    {
+      "lemma": "begin",
+      "ipa": "bɪˈɡɪn",
+      "translation": "bắt đầu"
+    },
+    {
+      "lemma": "century",
+      "ipa": "ˈsentʃəri",
+      "translation": "kỷ"
+    },
+    {
+      "lemma": "consider",
+      "ipa": "kənˈsɪdə(r)",
+      "translation": "xem xét"
+    },
+    {
+      "lemma": "dangerous",
+      "ipa": "ˈdeɪndʒərəs",
+      "translation": "nguy hiểm"
+    },
+    {
+      "lemma": "dark",
+      "ipa": "dɑːk",
+      "translation": "tối"
+    },
+    {
+      "lemma": "exchange",
+      "ipa": "ɪksˈtʃeɪndʒ",
+      "translation": "đổi"
+    },
+    {
+      "lemma": "government",
+      "ipa": "ˈɡʌvənmənt",
+      "translation": "chính quyền"
+    },
+    {
+      "lemma": "hear",
+      "ipa": "hɪə(r)",
+      "translation": "Nghe"
+    },
+    {
+      "lemma": "jump",
+      "ipa": "dʒʌmp",
+      "translation": "nhảy"
+    },
+    {
+      "lemma": "material",
+      "ipa": "məˈtɪəriəl",
+      "translation": "vật chất"
+    },
+    {
+      "lemma": "near",
+      "ipa": "nɪə(r)",
+      "translation": "ở gần"
+    },
+    {
+      "lemma": "past",
+      "ipa": "pɑːst",
+      "translation": "quá khứ"
+    },
+    {
+      "lemma": "produce",
+      "ipa": "prəˈdjuːs",
+      "translation": "sản xuất"
+    },
+    {
+      "lemma": "remove",
+      "ipa": "rɪˈmuːv",
+      "translation": "tẩy"
+    },
+    {
+      "lemma": "secret",
+      "ipa": "ˈsiːkrət",
+      "translation": "bí mật"
+    },
+    {
+      "lemma": "song",
+      "ipa": "sɒŋ",
+      "translation": "bài hát"
+    },
+    {
+      "lemma": "television",
+      "ipa": "ˈtelɪvɪʒn",
+      "translation": "Tivi"
+    },
+    {
+      "lemma": "value",
+      "ipa": "ˈvæljuː",
+      "translation": "giá trị"
+    },
+    {
+      "lemma": "when",
+      "ipa": "wen",
+      "translation": "khi nào"
+    },
+    {
+      "lemma": "arm",
+      "ipa": "ɑːm",
+      "translation": "cánh tay"
+    },
+    {
+      "lemma": "behind",
+      "ipa": "bɪˈhaɪnd",
+      "translation": "phía sau"
+    },
+    {
+      "lemma": "case",
+      "ipa": "keɪs",
+      "translation": "trường hợp"
+    },
+    {
+      "lemma": "collect",
+      "ipa": "kəˈlekt",
+      "translation": "sưu tầm"
+    },
+    {
+      "lemma": "draw",
+      "ipa": "drɔː",
+      "translation": "vẽ tranh"
+    },
+    {
+      "lemma": "examine",
+      "ipa": "ɪɡˈzæmɪn",
+      "translation": "xem xét"
+    },
+    {
+      "lemma": "fall",
+      "ipa": "fɔːl",
+      "translation": "ngã"
+    },
+    {
+      "lemma": "grow",
+      "ipa": "ɡrəʊ",
+      "translation": "lớn lên"
+    },
+    {
+      "lemma": "immediately",
+      "ipa": "ɪˈmiːdiətli",
+      "translation": "ngay"
+    },
+    {
+      "lemma": "low",
+      "ipa": "ləʊ",
+      "translation": "Thấp"
+    },
+    {
+      "lemma": "mind",
+      "ipa": "maɪnd",
+      "translation": "lí trí"
+    },
+    {
+      "lemma": "off",
+      "ipa": "ɒf",
+      "translation": "tắt"
+    },
+    {
+      "lemma": "pass",
+      "ipa": "pɑːs",
+      "translation": "vượt qua"
+    },
+    {
+      "lemma": "radio",
+      "ipa": "ˈreɪdiəʊ",
+      "translation": "Đài"
+    },
+    {
+      "lemma": "shoe",
+      "ipa": "ʃuː",
+      "translation": "giày"
+    },
+    {
+      "lemma": "station",
+      "ipa": "ˈsteɪʃn",
+      "translation": "ga tàu"
+    },
+    {
+      "lemma": "sure",
+      "ipa": "ʃɔː(r)",
+      "translation": "chắc chắn rồi"
+    },
+    {
+      "lemma": "test",
+      "ipa": "test",
+      "translation": "kiểm tra"
+    },
+    {
+      "lemma": "usual",
+      "ipa": "ˈjuːʒuəl",
+      "translation": "bình thường"
+    },
+    {
+      "lemma": "while",
+      "ipa": "waɪl",
+      "translation": "trong khi"
+    },
+    {
+      "lemma": "ago",
+      "ipa": "əˈɡəʊ",
+      "translation": "trước đây"
+    },
+    {
+      "lemma": "along",
+      "ipa": "əˈlɒŋ",
+      "translation": "dọc theo"
+    },
+    {
+      "lemma": "bear",
+      "ipa": "beə(r)",
+      "translation": "chịu"
+    },
+    {
+      "lemma": "condition",
+      "ipa": "kənˈdɪʃn",
+      "translation": "tình trạng"
+    },
+    {
+      "lemma": "direct",
+      "ipa": "daɪˈrekt",
+      "translation": "thẳng thắn"
+    },
+    {
+      "lemma": "edge",
+      "ipa": "edʒ",
+      "translation": "cạnh"
+    },
+    {
+      "lemma": "fine",
+      "ipa": "faɪn",
+      "translation": "khỏe"
+    },
+    {
+      "lemma": "half",
+      "ipa": "hɑːf",
+      "translation": "một nửa"
+    },
+    {
+      "lemma": "chicken",
+      "ipa": "ˈtʃɪkɪn",
+      "translation": "thịt gà"
+    },
+    {
+      "lemma": "increase",
+      "ipa": "ɪnˈkriːs",
+      "translation": "tăng"
+    },
+    {
+      "lemma": "magazine",
+      "ipa": "ˌmæɡəˈziːn",
+      "translation": "tạp chí"
+    },
+    {
+      "lemma": "nature",
+      "ipa": "ˈneɪtʃə(r)",
+      "translation": "Thiên nhiên"
+    },
+    {
+      "lemma": "plate",
+      "ipa": "pleɪt",
+      "translation": "đĩa"
+    },
+    {
+      "lemma": "poor",
+      "ipa": "pɔː(r)",
+      "translation": "nghèo"
+    },
+    {
+      "lemma": "respect",
+      "ipa": "rɪˈspekt",
+      "translation": "sự tôn trọng"
+    },
+    {
+      "lemma": "sharp",
+      "ipa": "ʃɑːp",
+      "translation": "nhọn"
+    },
+    {
+      "lemma": "sometimes",
+      "ipa": "ˈsʌmtaɪmz",
+      "translation": "đôi khi"
+    },
+    {
+      "lemma": "still",
+      "ipa": "stɪl",
+      "translation": "vẫn"
+    },
+    {
+      "lemma": "tall",
+      "ipa": "tɔːl",
+      "translation": "cao"
+    },
+    {
+      "lemma": "would",
+      "ipa": "wʊd",
+      "translation": "sẽ"
+    },
+    {
+      "lemma": "add",
+      "ipa": "æd",
+      "translation": "thêm vào"
+    },
+    {
+      "lemma": "among",
+      "ipa": "əˈmʌŋ",
+      "translation": "ở giữa"
+    },
+    {
+      "lemma": "built",
+      "ipa": "bɪld",
+      "translation": "được xây dựng"
+    },
+    {
+      "lemma": "common",
+      "ipa": "ˈkɒmən",
+      "translation": "chung"
+    },
+    {
+      "lemma": "depend",
+      "ipa": "dɪˈpend",
+      "translation": "tùy theo"
+    },
+    {
+      "lemma": "early",
+      "ipa": "ˈɜːli",
+      "translation": "sớm"
+    },
+    {
+      "lemma": "fly",
+      "ipa": "flaɪ",
+      "translation": "bay"
+    },
+    {
+      "lemma": "happen",
+      "ipa": "ˈhæpən",
+      "translation": "xảy ra"
+    },
+    {
+      "lemma": "check",
+      "ipa": "tʃek",
+      "translation": "kiểm tra"
+    },
+    {
+      "lemma": "introduce",
+      "ipa": "ˌɪntrəˈdjuːs",
+      "translation": "giới thiệu"
+    },
+    {
+      "lemma": "less",
+      "ipa": "les",
+      "translation": "ít hơn"
+    },
+    {
+      "lemma": "mark",
+      "ipa": "mɑːk",
+      "translation": "dấu"
+    },
+    {
+      "lemma": "patient",
+      "ipa": "ˈpeɪʃnt",
+      "translation": "kiên nhẫn"
+    },
+    {
+      "lemma": "perhaps",
+      "ipa": "pəˈhæps",
+      "translation": "có lẽ"
+    },
+    {
+      "lemma": "rise",
+      "ipa": "raɪz",
+      "translation": "tăng lên"
+    },
+    {
+      "lemma": "sense",
+      "ipa": "sens",
+      "translation": "giác quan"
+    },
+    {
+      "lemma": "short",
+      "ipa": "ʃɔːt",
+      "translation": "ngắn"
+    },
+    {
+      "lemma": "state",
+      "ipa": "steɪt",
+      "translation": "tiểu bang"
+    },
+    {
+      "lemma": "turn",
+      "ipa": "tɜːn",
+      "translation": "xoay"
+    },
+    {
+      "lemma": "will",
+      "ipa": "wɪl",
+      "translation": "sẽ"
+    },
+    {
+      "lemma": "act",
+      "ipa": "ækt",
+      "translation": "hành động"
+    },
+    {
+      "lemma": "appear",
+      "ipa": "əˈpɪə(r)",
+      "translation": "xuất hiện"
+    },
+    {
+      "lemma": "break",
+      "ipa": "breɪk",
+      "translation": "phá vỡ"
+    },
+    {
+      "lemma": "course",
+      "ipa": "kɔːs",
+      "translation": "khóa học"
+    },
+    {
+      "lemma": "court",
+      "ipa": "kɔːt",
+      "translation": "tòa án"
+    },
+    {
+      "lemma": "discuss",
+      "ipa": "dɪˈskʌs",
+      "translation": "bàn luận"
+    },
+    {
+      "lemma": "effect",
+      "ipa": "ɪˈfekt",
+      "translation": "hiệu ứng"
+    },
+    {
+      "lemma": "form",
+      "ipa": "fɔːm",
+      "translation": "hình thức"
+    },
+    {
+      "lemma": "hold",
+      "ipa": "fɔːm",
+      "translation": "giữ"
+    },
+    {
+      "lemma": "insect",
+      "ipa": "ˈɪnsekt",
+      "translation": "côn trùng"
+    },
+    {
+      "lemma": "mean",
+      "ipa": "miːn",
+      "translation": "nghĩa là"
+    },
+    {
+      "lemma": "once",
+      "ipa": "wʌns",
+      "translation": "Một lần"
+    },
+    {
+      "lemma": "purpose",
+      "ipa": "ˈpɜːpəs",
+      "translation": "mục đích"
+    },
+    {
+      "lemma": "really",
+      "ipa": "ˈriːəli",
+      "translation": "có thật không"
+    },
+    {
+      "lemma": "ride",
+      "ipa": "raɪd",
+      "translation": "dap xe"
+    },
+    {
+      "lemma": "situation",
+      "ipa": "ˌsɪtʃuˈeɪʃn",
+      "translation": "tình hình"
+    },
+    {
+      "lemma": "success",
+      "ipa": "səkˈses",
+      "translation": "sự thành công"
+    },
+    {
+      "lemma": "though",
+      "ipa": "ðəʊ",
+      "translation": "Tuy nhiên"
+    },
+    {
+      "lemma": "upon",
+      "ipa": "əˈpɒn",
+      "translation": "trên"
+    },
+    {
+      "lemma": "war",
+      "ipa": "wɔː(r)",
+      "translation": "chiến tranh"
+    },
+    {
+      "lemma": "afternoon",
+      "ipa": "ˌɑːftəˈnuːn",
+      "translation": "buổi chiều"
+    },
+    {
+      "lemma": "busy",
+      "ipa": "ˈbɪzi",
+      "translation": "bận"
+    },
+    {
+      "lemma": "coffee",
+      "ipa": "ˈkɒfi",
+      "translation": "cà phê"
+    },
+    {
+      "lemma": "detail",
+      "ipa": "ˈdiːteɪl",
+      "translation": "chi tiết"
+    },
+    {
+      "lemma": "especially",
+      "ipa": "ɪˈspeʃəli",
+      "translation": "đặc biệt"
+    },
+    {
+      "lemma": "finish",
+      "ipa": "ˈfɪnɪʃ",
+      "translation": "hoàn thành"
+    },
+    {
+      "lemma": "ground",
+      "ipa": "ɡraʊnd",
+      "translation": "đất"
+    },
+    {
+      "lemma": "holiday",
+      "ipa": "ˈhɒlədeɪ",
+      "translation": "ngày lễ"
+    },
+    {
+      "lemma": "choice",
+      "ipa": "tʃɔɪs",
+      "translation": "sự lựa chọn"
+    },
+    {
+      "lemma": "kitchen",
+      "ipa": "ˈkɪtʃɪn",
+      "translation": "phòng bếp"
+    },
+    {
+      "lemma": "lesson",
+      "ipa": "ˈlesn",
+      "translation": "bài học"
+    },
+    {
+      "lemma": "music",
+      "ipa": "ˈmjuːzɪk",
+      "translation": "Âm nhạc"
+    },
+    {
+      "lemma": "orange",
+      "ipa": "ˈɒrɪndʒ",
+      "translation": "trái cam"
+    },
+    {
+      "lemma": "perfect (adj)",
+      "ipa": "ˈpɜːfɪkt",
+      "translation": "hoàn hảo"
+    },
+    {
+      "lemma": "request",
+      "ipa": "rɪˈkwest",
+      "translation": "yêu cầu"
+    },
+    {
+      "lemma": "season",
+      "ipa": "ˈsiːzn",
+      "translation": "Mùa"
+    },
+    {
+      "lemma": "sick",
+      "ipa": "sɪk",
+      "translation": "đau ốm"
+    },
+    {
+      "lemma": "tomorrow",
+      "ipa": "təˈmɒrəʊ",
+      "translation": "Ngày mai"
+    },
+    {
+      "lemma": "welcome",
+      "ipa": "ˈwelkəm",
+      "translation": "chào mừng"
+    },
+    {
+      "lemma": "yesterday",
+      "ipa": "ˈjestədeɪ",
+      "translation": "hôm qua"
+    },
+    {
+      "lemma": "agree",
+      "ipa": "əˈɡriː",
+      "translation": "đồng ý"
+    },
+    {
+      "lemma": "bridge",
+      "ipa": "əˈɡriː",
+      "translation": "cầu"
+    },
+    {
+      "lemma": "cake",
+      "ipa": "keɪk",
+      "translation": "bánh ngọt"
+    },
+    {
+      "lemma": "customer",
+      "ipa": "ˈkʌstəmə(r)",
+      "translation": "khách hàng"
+    },
+    {
+      "lemma": "date",
+      "ipa": "deɪt",
+      "translation": "ngày"
+    },
+    {
+      "lemma": "enter",
+      "ipa": "ˈentə(r)",
+      "translation": "đi vào"
+    },
+    {
+      "lemma": "future",
+      "ipa": "ˈfjuːtʃə(r)",
+      "translation": "Tương lai"
+    },
+    {
+      "lemma": "gentleman",
+      "ipa": "ˈdʒentlmən",
+      "translation": "quý ông"
+    },
+    {
+      "lemma": "hair",
+      "ipa": "heə(r)",
+      "translation": "tóc"
+    },
+    {
+      "lemma": "image",
+      "ipa": "ˈɪmɪdʒ",
+      "translation": "hình ảnh"
+    },
+    {
+      "lemma": "language",
+      "ipa": "ˈlæŋɡwɪdʒ",
+      "translation": "ngôn ngữ"
+    },
+    {
+      "lemma": "market",
+      "ipa": "ˈmɑːkɪt",
+      "translation": "thị trường"
+    },
+    {
+      "lemma": "plane",
+      "ipa": "pleɪn",
+      "translation": "máy bay"
+    },
+    {
+      "lemma": "private",
+      "ipa": "ˈpraɪvət",
+      "translation": "riêng tư"
+    },
+    {
+      "lemma": "restaurant",
+      "ipa": "ˈrestrɒnt",
+      "translation": "nhà hàng"
+    },
+    {
+      "lemma": "size",
+      "ipa": "saɪz",
+      "translation": "kích thước"
+    },
+    {
+      "lemma": "sky",
+      "ipa": "skaɪ",
+      "translation": "bầu trời"
+    },
+    {
+      "lemma": "smart",
+      "ipa": "smɑːt",
+      "translation": "thông minh"
+    },
+    {
+      "lemma": "thank",
+      "ipa": "θæŋk",
+      "translation": "cảm tạ"
+    },
+    {
+      "lemma": "weather",
+      "ipa": "ˈweðə(r)",
+      "translation": "thời tiết"
+    },
+    {
+      "lemma": "actor",
+      "ipa": "ˈæktə(r)",
+      "translation": "diễn viên"
+    },
+    {
+      "lemma": "bottle",
+      "ipa": "ˈbɒtl",
+      "translation": "chai"
+    },
+    {
+      "lemma": "cloth",
+      "ipa": "klɒθ",
+      "translation": "vải"
+    },
+    {
+      "lemma": "coat",
+      "ipa": "kəʊt",
+      "translation": "áo choàng ngoài"
+    },
+    {
+      "lemma": "destroy",
+      "ipa": "dɪˈstrɔɪ",
+      "translation": "hủy hoại"
+    },
+    {
+      "lemma": "everywhere",
+      "ipa": "ˈevriweə(r)",
+      "translation": "mọi nơi"
+    },
+    {
+      "lemma": "finger",
+      "ipa": "ˈfɪŋɡə(r)",
+      "translation": "ngón tay"
+    },
+    {
+      "lemma": "guide",
+      "ipa": "ɡaɪd",
+      "translation": "hướng dẫn"
+    },
+    {
+      "lemma": "improve",
+      "ipa": "ɪmˈpruːv",
+      "translation": "cải tiến"
+    },
+    {
+      "lemma": "knife",
+      "ipa": "naɪf",
+      "translation": "dao"
+    },
+    {
+      "lemma": "large",
+      "ipa": "lɑːdʒ",
+      "translation": "lớn"
+    },
+    {
+      "lemma": "mistake",
+      "ipa": "mɪˈsteɪk",
+      "translation": "sai lầm"
+    },
+    {
+      "lemma": "ocean",
+      "ipa": "ˈəʊʃn",
+      "translation": "đại dương"
+    },
+    {
+      "lemma": "plant",
+      "ipa": "plɑːnt",
+      "translation": "cây"
+    },
+    {
+      "lemma": "repeat",
+      "ipa": "rɪˈpiːt",
+      "translation": "nói lại"
+    },
+    {
+      "lemma": "salt",
+      "ipa": "sɔːlt",
+      "translation": "Muối"
+    },
+    {
+      "lemma": "special",
+      "ipa": "ˈspeɪʃl",
+      "translation": "đặc biệt"
+    },
+    {
+      "lemma": "teach",
+      "ipa": "tiːtʃ",
+      "translation": "dạy"
+    },
+    {
+      "lemma": "uncle",
+      "ipa": "ˈʌŋkl",
+      "translation": "Chú"
+    },
+    {
+      "lemma": "winter",
+      "ipa": "ˈwɪntə(r)",
+      "translation": "mùa đông"
+    },
+    {
+      "lemma": "angry",
+      "ipa": "ˈæŋɡri",
+      "translation": "bực bội"
+    },
+    {
+      "lemma": "article",
+      "ipa": "ˈɑːtɪkl",
+      "translation": "bài báo"
+    },
+    {
+      "lemma": "build",
+      "ipa": "bɪld",
+      "translation": "xây dựng"
+    },
+    {
+      "lemma": "dirty",
+      "ipa": "ˈdɜːti",
+      "translation": "dơ bẩn"
+    },
+    {
+      "lemma": "except",
+      "ipa": "ɪkˈsept",
+      "translation": "ngoại trừ"
+    },
+    {
+      "lemma": "famous",
+      "ipa": "ˈfeɪməs",
+      "translation": "nổi danh"
+    },
+    {
+      "lemma": "gas",
+      "ipa": "ɡæs",
+      "translation": "khí ga"
+    },
+    {
+      "lemma": "hotel",
+      "ipa": "həʊˈtel",
+      "translation": "khách sạn"
+    },
+    {
+      "lemma": "cheap",
+      "ipa": "tʃiːp",
+      "translation": "rẻ"
+    },
+    {
+      "lemma": "interview",
+      "ipa": "ˈɪntəvjuː",
+      "translation": "phỏng vấn"
+    },
+    {
+      "lemma": "moon",
+      "ipa": "muːn",
+      "translation": "mặt trăng"
+    },
+    {
+      "lemma": "nice",
+      "ipa": "naɪs",
+      "translation": "đẹp"
+    },
+    {
+      "lemma": "prepare",
+      "ipa": "prɪˈpeə(r)",
+      "translation": "chuẩn bị"
+    },
+    {
+      "lemma": "prison",
+      "ipa": "ˈprɪzn",
+      "translation": "nhà tù"
+    },
+    {
+      "lemma": "rice",
+      "ipa": "raɪs",
+      "translation": "cơm"
+    },
+    {
+      "lemma": "seem",
+      "ipa": "siːm",
+      "translation": "hình như"
+    },
+    {
+      "lemma": "skirt",
+      "ipa": "skɜːt",
+      "translation": "váy"
+    },
+    {
+      "lemma": "strange",
+      "ipa": "streɪndʒ",
+      "translation": "lạ lùng"
+    },
+    {
+      "lemma": "train",
+      "ipa": "treɪn",
+      "translation": "xe lửa"
+    },
+    {
+      "lemma": "warm",
+      "ipa": "wɔːm",
+      "translation": "ấm áp"
+    },
+    {
+      "lemma": "account",
+      "ipa": "əˈkaʊnt",
+      "translation": "tài khoản"
+    },
+    {
+      "lemma": "bird",
+      "ipa": "bɜːd",
+      "translation": "chim"
+    },
+    {
+      "lemma": "cloud",
+      "ipa": "klaʊd",
+      "translation": "đám mây"
+    },
+    {
+      "lemma": "comfortable",
+      "ipa": "ˈkʌmftəbl",
+      "translation": "Thoải mái"
+    },
+    {
+      "lemma": "damage",
+      "ipa": "ˈdæmɪdʒ",
+      "translation": "hư hại"
+    },
+    {
+      "lemma": "dust",
+      "ipa": "dʌst",
+      "translation": "bụi bặm"
+    },
+    {
+      "lemma": "exercise",
+      "ipa": "ˈeksəsaɪz",
+      "translation": "tập thể dục"
+    },
+    {
+      "lemma": "favourite",
+      "ipa": "ˈfeɪvərɪt",
+      "translation": "yêu thích"
+    },
+    {
+      "lemma": "hospital",
+      "ipa": "ˈhɒspɪtl",
+      "translation": "bệnh viện"
+    },
+    {
+      "lemma": "joke",
+      "ipa": "dʒəʊk",
+      "translation": "trò đùa"
+    },
+    {
+      "lemma": "message",
+      "ipa": "ˈmesɪdʒ",
+      "translation": "thông điệp"
+    },
+    {
+      "lemma": "night",
+      "ipa": "naɪt",
+      "translation": "đêm"
+    },
+    {
+      "lemma": "paint",
+      "ipa": "peɪnt",
+      "translation": "Sơn"
+    },
+    {
+      "lemma": "pleasure",
+      "ipa": "ˈpleʒə(r)",
+      "translation": "vui lòng"
+    },
+    {
+      "lemma": "relationship",
+      "ipa": "rɪˈleɪʃnʃɪp",
+      "translation": "mối quan hệ"
+    },
+    {
+      "lemma": "science",
+      "ipa": "ˈsaɪəns",
+      "translation": "khoa học"
+    },
+    {
+      "lemma": "serious",
+      "ipa": "ˈsɪəriəs",
+      "translation": "nghiêm trọng"
+    },
+    {
+      "lemma": "spend",
+      "ipa": "spend",
+      "translation": "tiêu"
+    },
+    {
+      "lemma": "tired",
+      "ipa": "ˈtaɪəd",
+      "translation": "mệt mỏi"
+    },
+    {
+      "lemma": "wrong",
+      "ipa": "rɒŋ",
+      "translation": "Sai lầm"
+    },
+    {
+      "lemma": "amount",
+      "ipa": "əˈmaʊnt",
+      "translation": "lượng"
+    },
+    {
+      "lemma": "bank",
+      "ipa": "bæŋk",
+      "translation": "ngân hàng"
+    },
+    {
+      "lemma": "brown",
+      "ipa": "braʊn",
+      "translation": "nâu"
+    },
+    {
+      "lemma": "crowd",
+      "ipa": "kraʊd",
+      "translation": "bầy đàn"
+    },
+    {
+      "lemma": "deal",
+      "ipa": "diːl",
+      "translation": "thỏa thuận"
+    },
+    {
+      "lemma": "engine",
+      "ipa": "ˈendʒɪn",
+      "translation": "động cơ"
+    },
+    {
+      "lemma": "follow",
+      "ipa": "ˈfɒləʊ",
+      "translation": "theo"
+    },
+    {
+      "lemma": "chocolate",
+      "ipa": "ˈtʃɒklət",
+      "translation": "sô cô la"
+    },
+    {
+      "lemma": "individual",
+      "ipa": "ˌɪndɪˈvɪdʒuəl",
+      "translation": "cá nhân"
+    },
+    {
+      "lemma": "left",
+      "ipa": "left",
+      "translation": "trái"
+    },
+    {
+      "lemma": "meal",
+      "ipa": "miːl",
+      "translation": "bữa ăn"
+    },
+    {
+      "lemma": "oil",
+      "ipa": "ɔɪl",
+      "translation": "dầu"
+    },
+    {
+      "lemma": "pain",
+      "ipa": "peɪn",
+      "translation": "đau đớn"
+    },
+    {
+      "lemma": "probably",
+      "ipa": "ˈprɒbəbli",
+      "translation": "có lẽ"
+    },
+    {
+      "lemma": "replace",
+      "ipa": "rɪˈpleɪs",
+      "translation": "thay thế"
+    },
+    {
+      "lemma": "society",
+      "ipa": "səˈsaɪəti",
+      "translation": "xã hội"
+    },
+    {
+      "lemma": "square",
+      "ipa": "skweə(r)",
+      "translation": "Quảng trường"
+    },
+    {
+      "lemma": "step",
+      "ipa": "step",
+      "translation": "bươc"
+    },
+    {
+      "lemma": "temperature",
+      "ipa": "ˈtemprətʃə(r)",
+      "translation": "nhiệt độ"
+    },
+    {
+      "lemma": "university",
+      "ipa": "ˌjuːnɪˈvɜːsəti",
+      "translation": "trường đại học"
+    },
+    {
+      "lemma": "accept",
+      "ipa": "əkˈsept",
+      "translation": "Chấp nhận"
+    },
+    {
+      "lemma": "advance",
+      "ipa": "ədˈvɑːns",
+      "translation": "nâng cao"
+    },
+    {
+      "lemma": "bag",
+      "ipa": "bæɡ",
+      "translation": "túi"
+    },
+    {
+      "lemma": "captain",
+      "ipa": "ˈkæptɪn",
+      "translation": "đội trưởng"
+    },
+    {
+      "lemma": "centre",
+      "ipa": "ˈsentə(r)",
+      "translation": "trung tâm"
+    },
+    {
+      "lemma": "demand",
+      "ipa": "dɪˈmɑːnd",
+      "translation": "nhu cầu"
+    },
+    {
+      "lemma": "enemy",
+      "ipa": "ˈenəmi",
+      "translation": "kẻ thù"
+    },
+    {
+      "lemma": "factory",
+      "ipa": "ˈfæktri",
+      "translation": "nhà máy"
+    },
+    {
+      "lemma": "hungry",
+      "ipa": "ˈhʌŋɡri",
+      "translation": "đói bụng"
+    },
+    {
+      "lemma": "illegal",
+      "ipa": "ɪˈliːɡl",
+      "translation": "bất hợp pháp"
+    },
+    {
+      "lemma": "law",
+      "ipa": "lɔː",
+      "translation": "pháp luật"
+    },
+    {
+      "lemma": "nose",
+      "ipa": "nəʊz",
+      "translation": "cái mũi"
+    },
+    {
+      "lemma": "petrol",
+      "ipa": "ˈpetrəl",
+      "translation": "xăng dầu"
+    },
+    {
+      "lemma": "proud",
+      "ipa": "praʊd",
+      "translation": "tự hào"
+    },
+    {
+      "lemma": "responsible",
+      "ipa": "rɪˈspɒnsəbl",
+      "translation": "chịu trách nhiệm"
+    },
+    {
+      "lemma": "store",
+      "ipa": "stɔː(r)",
+      "translation": "cửa hàng"
+    },
+    {
+      "lemma": "successful",
+      "ipa": "səkˈsesfl",
+      "translation": "thành công"
+    },
+    {
+      "lemma": "swim",
+      "ipa": "swɪm",
+      "translation": "bơi"
+    },
+    {
+      "lemma": "top",
+      "ipa": "tɒp",
+      "translation": "hàng đầu"
+    },
+    {
+      "lemma": "win",
+      "ipa": "wɪn",
+      "translation": "thắng lợi"
+    },
+    {
+      "lemma": "available",
+      "ipa": "əˈveɪləbl",
+      "translation": "có sẵn"
+    },
+    {
+      "lemma": "boat",
+      "ipa": "bəʊt",
+      "translation": "thuyền"
+    },
+    {
+      "lemma": "borrow",
+      "ipa": "ˈbɒrəʊ",
+      "translation": "vay"
+    },
+    {
+      "lemma": "coast",
+      "ipa": "kəʊst",
+      "translation": "bờ biển"
+    },
+    {
+      "lemma": "cream",
+      "ipa": "kriːm",
+      "translation": "kem"
+    },
+    {
+      "lemma": "design",
+      "ipa": "dɪˈzaɪn",
+      "translation": "thiết kế"
+    },
+    {
+      "lemma": "expression",
+      "ipa": "ɪkˈspreʃn",
+      "translation": "biểu hiện"
+    },
+    {
+      "lemma": "farm",
+      "ipa": "fɑːm",
+      "translation": "nông trại"
+    },
+    {
+      "lemma": "history",
+      "ipa": "ˈhɪstri",
+      "translation": "lịch sử"
+    },
+    {
+      "lemma": "injure",
+      "ipa": "ˈɪndʒə(r)",
+      "translation": "bị thương"
+    },
+    {
+      "lemma": "map",
+      "ipa": "mæp",
+      "translation": "bản đồ"
+    },
+    {
+      "lemma": "obtain",
+      "ipa": "əbˈteɪn",
+      "translation": "đạt được"
+    },
+    {
+      "lemma": "peaceful",
+      "ipa": "ˈpiːsfl",
+      "translation": "bình yên"
+    },
+    {
+      "lemma": "practise",
+      "ipa": "ˈpræktɪs",
+      "translation": "thực hành"
+    },
+    {
+      "lemma": "recently",
+      "ipa": "ˈriːsntli",
+      "translation": "gần đây"
+    },
+    {
+      "lemma": "shape",
+      "ipa": "ʃeɪp",
+      "translation": "hình dạng"
+    },
+    {
+      "lemma": "silver",
+      "ipa": "ˈsɪlvə(r)",
+      "translation": "bạc"
+    },
+    {
+      "lemma": "smoke",
+      "ipa": "sməʊk",
+      "translation": "Khói"
+    },
+    {
+      "lemma": "touch",
+      "ipa": "tʌtʃ",
+      "translation": "chạm"
+    },
+    {
+      "lemma": "wash",
+      "ipa": "wɒʃ",
+      "translation": "rửa"
+    },
+    {
+      "lemma": "advantage",
+      "ipa": "ədˈvɑːntɪdʒ",
+      "translation": "lợi thế"
+    },
+    {
+      "lemma": "attack",
+      "ipa": "əˈtæk",
+      "translation": "tấn công"
+    },
+    {
+      "lemma": "butter",
+      "ipa": "ˈbʌtə(r)",
+      "translation": "bơ"
+    },
+    {
+      "lemma": "club",
+      "ipa": "klʌb",
+      "translation": "câu lạc bộ"
+    },
+    {
+      "lemma": "college",
+      "ipa": "ˈkɒlɪdʒ",
+      "translation": "trường đại học"
+    },
+    {
+      "lemma": "degree",
+      "ipa": "dɪˈɡriː",
+      "translation": "trình độ"
+    },
+    {
+      "lemma": "escape",
+      "ipa": "ɪˈskeɪp",
+      "translation": "bỏ trốn"
+    },
+    {
+      "lemma": "gate",
+      "ipa": "ɡeɪt",
+      "translation": "cánh cổng"
+    },
+    {
+      "lemma": "independent",
+      "ipa": "ˌɪndɪˈpendənt",
+      "translation": "độc lập"
+    },
+    {
+      "lemma": "listen",
+      "ipa": "ˈlɪsn",
+      "translation": "nghe"
+    },
+    {
+      "lemma": "marry",
+      "ipa": "ˈmæri",
+      "translation": "kết hôn"
+    },
+    {
+      "lemma": "object",
+      "ipa": "ˈɒbdʒɪkt",
+      "translation": "vật"
+    },
+    {
+      "lemma": "path",
+      "ipa": "pɑːθ",
+      "translation": "con đường"
+    },
+    {
+      "lemma": "quiet",
+      "ipa": "ˈkwaɪət",
+      "translation": "Yên tĩnh"
+    },
+    {
+      "lemma": "refuse",
+      "ipa": "rɪˈfjuːz",
+      "translation": "từ chối"
+    },
+    {
+      "lemma": "subject (n)",
+      "ipa": "ˈsʌbdʒɪkt",
+      "translation": "môn học"
+    },
+    {
+      "lemma": "supply",
+      "ipa": "səˈplaɪ",
+      "translation": "cung cấp"
+    },
+    {
+      "lemma": "taste",
+      "ipa": "teɪst",
+      "translation": "nếm thử"
+    },
+    {
+      "lemma": "usually",
+      "ipa": "ˈjuːʒuəli",
+      "translation": "thông thường"
+    },
+    {
+      "lemma": "vegetable",
+      "ipa": "ˈvedʒtəbl",
+      "translation": "rau"
+    },
+    {
+      "lemma": "arrange",
+      "ipa": "əˈreɪndʒ",
+      "translation": "sắp xếp"
+    },
+    {
+      "lemma": "below",
+      "ipa": "bɪˈləʊ",
+      "translation": "phía dưới"
+    },
+    {
+      "lemma": "cigarette",
+      "ipa": "ˌsɪɡəˈret",
+      "translation": "thuốc lá"
+    },
+    {
+      "lemma": "cottage",
+      "ipa": "ˈkɒtɪdʒ",
+      "translation": "nhà tranh"
+    },
+    {
+      "lemma": "department",
+      "ipa": "dɪˈpɑːtmənt",
+      "translation": "Phòng ban"
+    },
+    {
+      "lemma": "earn",
+      "ipa": "ɜːn",
+      "translation": "kiếm"
+    },
+    {
+      "lemma": "front",
+      "ipa": "frʌnt",
+      "translation": "trước mặt"
+    },
+    {
+      "lemma": "gentle",
+      "ipa": "ˈdʒentl",
+      "translation": "dịu dàng"
+    },
+    {
+      "lemma": "hat",
+      "ipa": "hæt",
+      "translation": "mũ"
+    },
+    {
+      "lemma": "instrument",
+      "ipa": "ˈɪnstrəmənt",
+      "translation": "dụng cụ"
+    },
+    {
+      "lemma": "machine",
+      "ipa": "məˈʃiːn",
+      "translation": "máy móc"
+    },
+    {
+      "lemma": "newspaper",
+      "ipa": "ˈnjuːzpeɪpə(r)",
+      "translation": "báo chí"
+    },
+    {
+      "lemma": "parcel",
+      "ipa": "ˈpɑːsl",
+      "translation": "Bưu kiện"
+    },
+    {
+      "lemma": "religion",
+      "ipa": "rɪˈlɪdʒən",
+      "translation": "tôn giáo"
+    },
+    {
+      "lemma": "repair",
+      "ipa": "rɪˈpeə(r)",
+      "translation": "sửa"
+    },
+    {
+      "lemma": "serve",
+      "ipa": "sɜːv",
+      "translation": "giao banh"
+    },
+    {
+      "lemma": "shoulder",
+      "ipa": "ˈʃəʊldə(r)",
+      "translation": "vai"
+    },
+    {
+      "lemma": "trip",
+      "ipa": "trɪp",
+      "translation": "chuyến đi"
+    },
+    {
+      "lemma": "village",
+      "ipa": "ˈvɪlɪdʒ",
+      "translation": "làng"
+    },
+    {
+      "lemma": "wall",
+      "ipa": "wɔːl",
+      "translation": "Tường"
+    },
+    {
+      "lemma": "arrive",
+      "ipa": "əˈraɪv",
+      "translation": "đến"
+    },
+    {
+      "lemma": "born",
+      "ipa": "bɔːn",
+      "translation": "sinh ra"
+    },
+    {
+      "lemma": "clothes",
+      "ipa": "kləʊðz",
+      "translation": "quần áo"
+    },
+    {
+      "lemma": "correct",
+      "ipa": "kəˈrekt",
+      "translation": "chính xác"
+    },
+    {
+      "lemma": "double",
+      "ipa": "ˈdʌbl",
+      "translation": "gấp đôi"
+    },
+    {
+      "lemma": "English",
+      "ipa": "ˈɪŋɡlɪʃ",
+      "translation": "Tiếng Anh"
+    },
+    {
+      "lemma": "forget",
+      "ipa": "ˈɪŋɡlɪʃ",
+      "translation": "quên"
+    },
+    {
+      "lemma": "goal",
+      "ipa": "ɡəʊl",
+      "translation": "mục tiêu"
+    },
+    {
+      "lemma": "hate",
+      "ipa": "ɡəʊl",
+      "translation": "ghét"
+    },
+    {
+      "lemma": "kill",
+      "ipa": "ɡəʊl",
+      "translation": "giết chết"
+    },
+    {
+      "lemma": "last",
+      "ipa": "lɑːst",
+      "translation": "Cuối cùng"
+    },
+    {
+      "lemma": "main",
+      "ipa": "meɪn",
+      "translation": "chủ yếu"
+    },
+    {
+      "lemma": "pair",
+      "ipa": "peə(r)",
+      "translation": "đôi"
+    },
+    {
+      "lemma": "promise",
+      "ipa": "ˈprɒmɪs",
+      "translation": "lời hứa"
+    },
+    {
+      "lemma": "regular",
+      "ipa": "ˈreɡjələ(r)",
+      "translation": "đều đặn"
+    },
+    {
+      "lemma": "somewhere",
+      "ipa": "ˈsʌmweə(r)",
+      "translation": "một vài nơi"
+    },
+    {
+      "lemma": "space",
+      "ipa": "speɪs",
+      "translation": "không gian"
+    },
+    {
+      "lemma": "these",
+      "ipa": "speɪs",
+      "translation": "những cái này"
+    },
+    {
+      "lemma": "useful",
+      "ipa": "ˈjuːsfl",
+      "translation": "hữu ích"
+    },
+    {
+      "lemma": "without",
+      "ipa": "wɪˈðaʊt",
+      "translation": "không có"
+    },
+    {
+      "lemma": "animal",
+      "ipa": "ˈænɪml",
+      "translation": "động vật"
+    },
+    {
+      "lemma": "beer",
+      "ipa": "bɪə(r)",
+      "translation": "bia"
+    },
+    {
+      "lemma": "calm",
+      "ipa": "kɑːm",
+      "translation": "điềm tĩnh"
+    },
+    {
+      "lemma": "copy",
+      "ipa": "ˈkɒpi",
+      "translation": "sao chép"
+    },
+    {
+      "lemma": "dish",
+      "ipa": "dɪʃ",
+      "translation": "món ăn"
+    },
+    {
+      "lemma": "express",
+      "ipa": "ɪkˈspres",
+      "translation": "bày tỏ"
+    },
+    {
+      "lemma": "foreign",
+      "ipa": "ˈfɒrən",
+      "translation": "ngoại quốc"
+    },
+    {
+      "lemma": "guess",
+      "ipa": "ɡes",
+      "translation": "phỏng đoán"
+    },
+    {
+      "lemma": "husband",
+      "ipa": "ˈhʌzbənd",
+      "translation": "người chồng"
+    },
+    {
+      "lemma": "lie",
+      "ipa": "laɪ",
+      "translation": "nói dối"
+    },
+    {
+      "lemma": "mine",
+      "ipa": "maɪn",
+      "translation": "của tôi"
+    },
+    {
+      "lemma": "opinion",
+      "ipa": "əˈpɪnjən",
+      "translation": "ý kiến"
+    },
+    {
+      "lemma": "passenger",
+      "ipa": "ˈpæsɪndʒə(r)",
+      "translation": "hành khách"
+    },
+    {
+      "lemma": "press",
+      "ipa": "pres",
+      "translation": "nhấn"
+    },
+    {
+      "lemma": "rule",
+      "ipa": "ruːl",
+      "translation": "qui định"
+    },
+    {
+      "lemma": "sign",
+      "ipa": "saɪn",
+      "translation": "ký tên"
+    },
+    {
+      "lemma": "support",
+      "ipa": "səˈpɔːt",
+      "translation": "ủng hộ"
+    },
+    {
+      "lemma": "those",
+      "ipa": "ðəʊz",
+      "translation": "những"
+    },
+    {
+      "lemma": "wonderful",
+      "ipa": "ˈwʌndəfl",
+      "translation": "Tuyệt vời"
+    },
+    {
+      "lemma": "year",
+      "ipa": "jɪə(r)",
+      "translation": "năm"
+    },
+    {
+      "lemma": "afraid",
+      "ipa": "əˈfreɪd",
+      "translation": "sợ"
+    },
+    {
+      "lemma": "board",
+      "ipa": "bɔːd",
+      "translation": "bảng"
+    },
+    {
+      "lemma": "circle",
+      "ipa": "ˈsɜːkl",
+      "translation": "vòng tròn"
+    },
+    {
+      "lemma": "count",
+      "ipa": "kaʊnt",
+      "translation": "đếm"
+    },
+    {
+      "lemma": "death",
+      "ipa": "deθ",
+      "translation": "tử vong"
+    },
+    {
+      "lemma": "discover",
+      "ipa": "dɪˈskʌvə(r)",
+      "translation": "khám phá"
+    },
+    {
+      "lemma": "funny",
+      "ipa": "ˈfʌni",
+      "translation": "buồn cười"
+    },
+    {
+      "lemma": "guest",
+      "ipa": "ɡes",
+      "translation": "khách mời"
+    },
+    {
+      "lemma": "horse",
+      "ipa": "ɡes",
+      "translation": "con ngựa"
+    },
+    {
+      "lemma": "lake",
+      "ipa": "lake",
+      "translation": "hồ nước"
+    },
+    {
+      "lemma": "modern",
+      "ipa": "ˈmɒdn",
+      "translation": "hiện đại"
+    },
+    {
+      "lemma": "necessary",
+      "ipa": "ˈnesəsəri",
+      "translation": "cần thiết"
+    },
+    {
+      "lemma": "plenty",
+      "ipa": "ˈplenti",
+      "translation": "nhiều"
+    },
+    {
+      "lemma": "profit",
+      "ipa": "ˈprɒfɪt",
+      "translation": "lợi nhuận"
+    },
+    {
+      "lemma": "reduce",
+      "ipa": "rɪˈdjuːs",
+      "translation": "giảm"
+    },
+    {
+      "lemma": "share",
+      "ipa": "ʃeə(r)",
+      "translation": "chia sẻ"
+    },
+    {
+      "lemma": "steal",
+      "ipa": "stiːl",
+      "translation": "lấy trộm"
+    },
+    {
+      "lemma": "trust",
+      "ipa": "trʌst",
+      "translation": "Lòng tin"
+    },
+    {
+      "lemma": "wish",
+      "ipa": "wɪʃ",
+      "translation": "muốn"
+    },
+    {
+      "lemma": "young",
+      "ipa": "jʌŋ",
+      "translation": "trẻ"
+    },
+    {
+      "lemma": "admire",
+      "ipa": "ədˈmaɪə(r)",
+      "translation": "ngưỡng mộ"
+    },
+    {
+      "lemma": "allow",
+      "ipa": "əˈlaʊ",
+      "translation": "cho phép"
+    },
+    {
+      "lemma": "battle",
+      "ipa": "ˈbætl",
+      "translation": "trận chiến"
+    },
+    {
+      "lemma": "climb",
+      "ipa": "klaɪm",
+      "translation": "leo"
+    },
+    {
+      "lemma": "complete",
+      "ipa": "kəmˈpliːt",
+      "translation": "hoàn thành"
+    },
+    {
+      "lemma": "divide",
+      "ipa": "dɪˈvaɪd",
+      "translation": "chia"
+    },
+    {
+      "lemma": "effort",
+      "ipa": "ˈefət",
+      "translation": "cố gắng"
+    },
+    {
+      "lemma": "fresh",
+      "ipa": "freʃ",
+      "translation": "tươi"
+    },
+    {
+      "lemma": "hole",
+      "ipa": "həʊl",
+      "translation": "hố"
+    },
+    {
+      "lemma": "indeed",
+      "ipa": "ɪnˈdiːd",
+      "translation": "thật"
+    },
+    {
+      "lemma": "marriage",
+      "ipa": "ɪnˈdiːd",
+      "translation": "kết hôn"
+    },
+    {
+      "lemma": "outside",
+      "ipa": "ˌaʊtˈsaɪd",
+      "translation": "ở ngoài"
+    },
+    {
+      "lemma": "pleasant",
+      "ipa": "ˌaʊtˈsaɪd",
+      "translation": "hài lòng"
+    },
+    {
+      "lemma": "point",
+      "ipa": "ˌaʊtˈsaɪd",
+      "translation": "điểm"
+    },
+    {
+      "lemma": "recent",
+      "ipa": "ˈriːsnt",
+      "translation": "gần đây"
+    },
+    {
+      "lemma": "secretary",
+      "ipa": "ˈsekrətri",
+      "translation": "Thư ký"
+    },
+    {
+      "lemma": "sing",
+      "ipa": "sɪŋ",
+      "translation": "hát"
+    },
+    {
+      "lemma": "soft",
+      "ipa": "sɒft",
+      "translation": "mềm mại"
+    },
+    {
+      "lemma": "third",
+      "ipa": "θɜːd",
+      "translation": "ngày thứ ba"
+    },
+    {
+      "lemma": "various",
+      "ipa": "ˈveəriəs",
+      "translation": "đa dạng"
+    },
+    {
+      "lemma": "adventure",
+      "ipa": "ədˈventʃə(r)",
+      "translation": "cuộc phiêu lưu"
+    },
+    {
+      "lemma": "although",
+      "ipa": "ɔːlˈðəʊ",
+      "translation": "Mặc du"
+    },
+    {
+      "lemma": "bottom",
+      "ipa": "ˈbɒtəm",
+      "translation": "đáy"
+    },
+    {
+      "lemma": "coin",
+      "ipa": "kɔɪn",
+      "translation": "đồng tiền"
+    },
+    {
+      "lemma": "comfort",
+      "ipa": "ˈkʌmfət",
+      "translation": "sự thoải mái"
+    },
+    {
+      "lemma": "drop",
+      "ipa": "drɒp",
+      "translation": "rơi vãi"
+    },
+    {
+      "lemma": "equal",
+      "ipa": "ˈiːkwəl",
+      "translation": "công bằng"
+    },
+    {
+      "lemma": "gun",
+      "ipa": "ɡʌn",
+      "translation": "súng"
+    },
+    {
+      "lemma": "intelligent",
+      "ipa": "ɪnˈtelɪdʒənt",
+      "translation": "thông minh"
+    },
+    {
+      "lemma": "join",
+      "ipa": "dʒɔɪn",
+      "translation": "tham gia"
+    },
+    {
+      "lemma": "laugh",
+      "ipa": "lɑːf",
+      "translation": "cười"
+    },
+    {
+      "lemma": "middle",
+      "ipa": "ˈmɪdl",
+      "translation": "ở giữa"
+    },
+    {
+      "lemma": "perform",
+      "ipa": "pəˈfɔːm",
+      "translation": "biểu diễn"
+    },
+    {
+      "lemma": "plain",
+      "ipa": "pleɪn",
+      "translation": "trơn"
+    },
+    {
+      "lemma": "row",
+      "ipa": "rəʊ",
+      "translation": "hàng"
+    },
+    {
+      "lemma": "soldier",
+      "ipa": "ˈsəʊldʒə(r)",
+      "translation": "lính"
+    },
+    {
+      "lemma": "surface",
+      "ipa": "ˈsɜːfɪs",
+      "translation": "bề mặt"
+    },
+    {
+      "lemma": "thick",
+      "ipa": "θɪk",
+      "translation": "dày"
+    },
+    {
+      "lemma": "until",
+      "ipa": "ənˈtɪl",
+      "translation": "cho đến khi"
+    },
+    {
+      "lemma": "wild",
+      "ipa": "waɪld",
+      "translation": "hoang dã"
+    },
+    {
+      "lemma": "attempt",
+      "ipa": "əˈtempt",
+      "translation": "cố gắng"
+    },
+    {
+      "lemma": "bill",
+      "ipa": "bɪl",
+      "translation": "hóa đơn"
+    },
+    {
+      "lemma": "breathe",
+      "ipa": "briːð",
+      "translation": "thở"
+    },
+    {
+      "lemma": "cook",
+      "ipa": "kʊk",
+      "translation": "nấu ăn"
+    },
+    {
+      "lemma": "defend",
+      "ipa": "dɪˈfend",
+      "translation": "phòng thủ"
+    },
+    {
+      "lemma": "fat",
+      "ipa": "fæt",
+      "translation": "mập"
+    },
+    {
+      "lemma": "grey",
+      "ipa": "ɡreɪ",
+      "translation": "màu xám"
+    },
+    {
+      "lemma": "hot",
+      "ipa": "hɒt",
+      "translation": "nóng bức"
+    },
+    {
+      "lemma": "character",
+      "ipa": "ˈkærəktə(r)",
+      "translation": "tính cách"
+    },
+    {
+      "lemma": "import",
+      "ipa": "ˈɪmpɔːt",
+      "translation": "nhập khẩu"
+    },
+    {
+      "lemma": "lose",
+      "ipa": "luːz",
+      "translation": "thua"
+    },
+    {
+      "lemma": "mountain",
+      "ipa": "ˈmaʊntən",
+      "translation": "núi"
+    },
+    {
+      "lemma": "operation",
+      "ipa": "ˈmaʊntən",
+      "translation": "hoạt động"
+    },
+    {
+      "lemma": "prize",
+      "ipa": "praɪz",
+      "translation": "giải thưởng"
+    },
+    {
+      "lemma": "risk",
+      "ipa": "rɪsk",
+      "translation": "rủi ro"
+    },
+    {
+      "lemma": "safe",
+      "ipa": "seɪf",
+      "translation": "an toàn"
+    },
+    {
+      "lemma": "suddenly",
+      "ipa": "ˈsʌdənli",
+      "translation": "đột ngột"
+    },
+    {
+      "lemma": "suit",
+      "ipa": "suːt",
+      "translation": "bộ đồ"
+    },
+    {
+      "lemma": "type",
+      "ipa": "taɪp",
+      "translation": "kiểu"
+    },
+    {
+      "lemma": "wood",
+      "ipa": "wʊd",
+      "translation": "gỗ"
+    },
+    {
+      "lemma": "area",
+      "ipa": "ˈeəriə",
+      "translation": "khu vực"
+    },
+    {
+      "lemma": "asleep",
+      "ipa": "əˈsliːp",
+      "translation": "ngủ"
+    },
+    {
+      "lemma": "bath",
+      "ipa": "bɑːθ",
+      "translation": "bồn tắm"
+    },
+    {
+      "lemma": "careless",
+      "ipa": "ˈkeələs",
+      "translation": "cẩu thả"
+    },
+    {
+      "lemma": "delay",
+      "ipa": "dɪˈleɪ",
+      "translation": "sự chậm trễ"
+    },
+    {
+      "lemma": "event",
+      "ipa": "dɪˈleɪ",
+      "translation": "biến cố"
+    },
+    {
+      "lemma": "foot",
+      "ipa": "fʊt",
+      "translation": "chân"
+    },
+    {
+      "lemma": "chain",
+      "ipa": "tʃeɪn",
+      "translation": "chuỗi"
+    },
+    {
+      "lemma": "international",
+      "ipa": "ˌɪntəˈnæʃnəl",
+      "translation": "Quốc tế"
+    },
+    {
+      "lemma": "match",
+      "ipa": "mætʃ",
+      "translation": "trận đấu"
+    },
+    {
+      "lemma": "nervous",
+      "ipa": "ˈnɜːvəs",
+      "translation": "lo lắng"
+    },
+    {
+      "lemma": "pity",
+      "ipa": "ˈpɪti",
+      "translation": "điều đáng tiếc"
+    },
+    {
+      "lemma": "prove",
+      "ipa": "pruːv",
+      "translation": "chứng minh"
+    },
+    {
+      "lemma": "raise",
+      "ipa": "reɪz",
+      "translation": "nâng cao"
+    },
+    {
+      "lemma": "shut",
+      "ipa": "ʃʌt",
+      "translation": "đóng cửa"
+    },
+    {
+      "lemma": "smell",
+      "ipa": "smel",
+      "translation": "mùi"
+    },
+    {
+      "lemma": "straight",
+      "ipa": "streɪt",
+      "translation": "thẳng"
+    },
+    {
+      "lemma": "trade",
+      "ipa": "treɪd",
+      "translation": "buôn bán"
+    },
+    {
+      "lemma": "variety",
+      "ipa": "vəˈraɪəti",
+      "translation": "đa dạng"
+    },
+    {
+      "lemma": "admit",
+      "ipa": "ədˈmɪt",
+      "translation": "thừa nhận"
+    },
+    {
+      "lemma": "attend",
+      "ipa": "əˈtend",
+      "translation": "tham gia"
+    },
+    {
+      "lemma": "branch",
+      "ipa": "əˈtend",
+      "translation": "chi nhánh"
+    },
+    {
+      "lemma": "coal",
+      "ipa": "əˈtend",
+      "translation": "than đá"
+    },
+    {
+      "lemma": "consist",
+      "ipa": "kəʊl",
+      "translation": "bao gồm"
+    },
+    {
+      "lemma": "declare",
+      "ipa": "dɪˈkleə(r)",
+      "translation": "khai báo"
+    },
+    {
+      "lemma": "exact",
+      "ipa": "ɪɡˈzækt",
+      "translation": "chính xác"
+    },
+    {
+      "lemma": "farmer",
+      "ipa": "ˈfɑːmə(r)",
+      "translation": "nông phu"
+    },
+    {
+      "lemma": "instead",
+      "ipa": "ɪnˈsted",
+      "translation": "thay thế"
+    },
+    {
+      "lemma": "jacket",
+      "ipa": "ˈdʒækɪt",
+      "translation": "Áo khoác"
+    },
+    {
+      "lemma": "leg",
+      "ipa": "leɡ",
+      "translation": "Chân"
+    },
+    {
+      "lemma": "metal",
+      "ipa": "ˈmetl",
+      "translation": "kim loại"
+    },
+    {
+      "lemma": "opposite",
+      "ipa": "ˈɒpəzɪt",
+      "translation": "đối diện"
+    },
+    {
+      "lemma": "pound",
+      "ipa": "paʊnd",
+      "translation": "pao"
+    },
+    {
+      "lemma": "roll",
+      "ipa": "rəʊl",
+      "translation": "cuộn"
+    },
+    {
+      "lemma": "score",
+      "ipa": "skɔː(r)",
+      "translation": "ghi bàn"
+    },
+    {
+      "lemma": "shoot",
+      "ipa": "ʃuːt",
+      "translation": "bắn"
+    },
+    {
+      "lemma": "speech",
+      "ipa": "spiːtʃ",
+      "translation": "phát biểu"
+    },
+    {
+      "lemma": "toilet",
+      "ipa": "ˈtɔɪlət",
+      "translation": "phòng vệ sinh"
+    },
+    {
+      "lemma": "whose",
+      "ipa": "huːz",
+      "translation": "ai"
+    },
+    {
+      "lemma": "attitude",
+      "ipa": "ˈætɪtjuːd",
+      "translation": "Thái độ"
+    },
+    {
+      "lemma": "brave",
+      "ipa": "breɪv",
+      "translation": "can đảm"
+    },
+    {
+      "lemma": "contain",
+      "ipa": "kənˈteɪn",
+      "translation": "Lưu trữ"
+    },
+    {
+      "lemma": "doubt",
+      "ipa": "daʊt",
+      "translation": "nghi ngờ"
+    },
+    {
+      "lemma": "experience",
+      "ipa": "ɪkˈspɪəriəns",
+      "translation": "kinh nghiệm"
+    },
+    {
+      "lemma": "flat",
+      "ipa": "flæt",
+      "translation": "bằng phẳng"
+    },
+    {
+      "lemma": "guard",
+      "ipa": "ɡɑːd",
+      "translation": "bảo vệ"
+    },
+    {
+      "lemma": "heavy",
+      "ipa": "ˈhevi",
+      "translation": "nặng"
+    },
+    {
+      "lemma": "charge",
+      "ipa": "tʃɑːdʒ",
+      "translation": "sạc điện"
+    },
+    {
+      "lemma": "iron",
+      "ipa": "ˈaɪən",
+      "translation": "bàn là"
+    },
+    {
+      "lemma": "medicine",
+      "ipa": "ˈmedɪsn",
+      "translation": "thuốc"
+    },
+    {
+      "lemma": "noise",
+      "ipa": "nɔɪz",
+      "translation": "tiếng ồn"
+    },
+    {
+      "lemma": "politics",
+      "ipa": "ˈpɒlətɪks",
+      "translation": "chính trị"
+    },
+    {
+      "lemma": "pour",
+      "ipa": "pɔː(r)",
+      "translation": "đổ"
+    },
+    {
+      "lemma": "rush",
+      "ipa": "rʌʃ",
+      "translation": "gấp rút"
+    },
+    {
+      "lemma": "smooth",
+      "ipa": "smuːð",
+      "translation": "trơn tru"
+    },
+    {
+      "lemma": "spread",
+      "ipa": "spred",
+      "translation": "lây lan"
+    },
+    {
+      "lemma": "suggest",
+      "ipa": "səˈdʒest",
+      "translation": "đề xuất"
+    },
+    {
+      "lemma": "trouble",
+      "ipa": "ˈtrʌbl",
+      "translation": "rắc rối"
+    },
+    {
+      "lemma": "west",
+      "ipa": "west",
+      "translation": "hướng Tây"
+    },
+    {
+      "lemma": "average",
+      "ipa": "ˈævərɪdʒ",
+      "translation": "Trung bình cộng"
+    },
+    {
+      "lemma": "belong",
+      "ipa": "bɪˈlɒŋ",
+      "translation": "thuộc về"
+    },
+    {
+      "lemma": "certainly",
+      "ipa": "ˈsɜːtnli",
+      "translation": "chắc chắn"
+    },
+    {
+      "lemma": "crime",
+      "ipa": "kraɪm",
+      "translation": "tội ác"
+    },
+    {
+      "lemma": "duty",
+      "ipa": "ˈdjuːti",
+      "translation": "nhiệm vụ"
+    },
+    {
+      "lemma": "either",
+      "ipa": "aɪðə(r)",
+      "translation": "hoặc"
+    },
+    {
+      "lemma": "fail",
+      "ipa": "feɪl",
+      "translation": "Thất bại"
+    },
+    {
+      "lemma": "health",
+      "ipa": "feɪl",
+      "translation": "Sức khỏe"
+    },
+    {
+      "lemma": "influence",
+      "ipa": "ɪnfluəns",
+      "translation": "ảnh hưởng"
+    },
+    {
+      "lemma": "leader",
+      "ipa": "ˈliːdə(r)",
+      "translation": "lãnh đạo"
+    },
+    {
+      "lemma": "measure",
+      "ipa": "ˈmeʒə(r)",
+      "translation": "đo lường"
+    },
+    {
+      "lemma": "offer",
+      "ipa": "ˈɒfə(r)",
+      "translation": "phục vụ"
+    },
+    {
+      "lemma": "pile",
+      "ipa": "paɪl",
+      "translation": "Đóng cọc"
+    },
+    {
+      "lemma": "regard",
+      "ipa": "rɪˈɡɑːd",
+      "translation": "sự quan tâm"
+    },
+    {
+      "lemma": "rough",
+      "ipa": "rʌf",
+      "translation": "thô"
+    },
+    {
+      "lemma": "series",
+      "ipa": "ˈsɪəriːz",
+      "translation": "loạt"
+    },
+    {
+      "lemma": "spoil",
+      "ipa": "spɔɪl",
+      "translation": "làm hư hỏng"
+    },
+    {
+      "lemma": "spot",
+      "ipa": "spɒt",
+      "translation": "nơi"
+    },
+    {
+      "lemma": "thin",
+      "ipa": "θɪn",
+      "translation": "gầy"
+    },
+    {
+      "lemma": "vote",
+      "ipa": "vəʊt",
+      "translation": "bỏ phiếu"
+    }
+  ]
+}
