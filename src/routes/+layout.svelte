@@ -67,6 +67,7 @@
 		top: 0;
 		justify-items: center;
 		align-items: center;
+		color: gray;
 	}
 
 	nav {
