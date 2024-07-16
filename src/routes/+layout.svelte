@@ -52,6 +52,7 @@
 	nav {
 		height: 100vh;
 		overflow-y: scroll;
+		scrollbar-width: thin;
 		position: sticky;
 		top: 0;
 		text-align: center;

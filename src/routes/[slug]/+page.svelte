@@ -35,12 +35,18 @@
 	tr {
 		border-bottom: 1px solid black;
 	}
+
+	table tbody tr:nth-of-type(7n) {
+		background: lightgoldenrodyellow;
+		border-bottom: 2px solid black;
+	}
 	table tbody tr td:first-of-type {
 		font-size: x-large;
 	}
 
 	thead th {
 		text-align: left;
+		border-bottom: 2px solid black;
 	}
 
 	thead th:first-of-type {
