@@ -5,6 +5,11 @@
 </script>
 
 <div class="layout">
+	<div></div>
+	<div class="side">{$page.params.slug}</div>
+	<main>
+		{@render children()}
+	</main>
 	<nav>
 		{#snippet ipaGroup(groupName: string, ipaGroupName: keyof typeof ipaList)}
 			<div>
@@ -21,18 +26,13 @@
 		{@render ipaGroup('Consonants', 'dConsonants')}
 		{@render ipaGroup('Easy Consonants', 'eConsonants')}
 	</nav>
-
-	<main>
-		{@render children()}
-	</main>
-	<div class="side">{$page.params.slug}</div>
 </div>
 
 <style>
 	@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Pacifico&display=swap');
 	.layout {
 		display: grid;
-		grid-template-columns: 10em 1fr 1fr 5em;
+		grid-template-columns: 5em 1fr 1fr 10em;
 		font-family: 'Noto Serif', serif;
 	}
 	.side {
@@ -45,6 +45,8 @@
 		justify-items: center;
 		align-items: center;
 		color: gray;
+		border-right: 2px dashed gray;
+		border-left: 1px dashed black;
 	}
 
 	nav {
