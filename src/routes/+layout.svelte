@@ -1,65 +1,42 @@
 <script lang="ts">
 	import ipaList from '$lib/ipaList';
-	import type { PageData } from './$types';
-	export let data: PageData;
+	import { page } from '$app/stores';
+	let { children } = $props();
 </script>
 
 <div class="layout">
 	<nav>
-		<div>
-			<p>Short vowels</p>
-			<ul>
-				{#each ipaList.shortVowel as ipaChar}
-					<li><a href="/{ipaChar}">{ipaChar}</a></li>
-				{/each}
-			</ul>
-		</div>
-		<div>
-			<p>Long vowels</p>
-			<ul>
-				{#each ipaList.longVowel as ipaChar}
-					<li><a href="/{ipaChar}">{ipaChar}</a></li>
-				{/each}
-			</ul>
-		</div>
+		{#snippet ipaGroup(groupName: string, ipaGroupName: keyof typeof ipaList)}
+			<div>
+				<p>{groupName}</p>
+				<ul>
+					{#each ipaList[ipaGroupName] as ipaChar}
+						<li><a href="/{ipaChar}">{ipaChar}</a></li>
+					{/each}
+				</ul>
+			</div>
+		{/snippet}
+		{@render ipaGroup('Short Vowels', 'shortVowel')}
+		{@render ipaGroup('Long Vowels', 'longVowel')}
+		{@render ipaGroup('Consonants', 'dConsonants')}
+		{@render ipaGroup('Easy Consonants', 'eConsonants')}
 	</nav>
-
-	<div>{data.slug}</div>
 
 	<main>
-		<slot></slot>
+		{@render children()}
 	</main>
-
-	<div>{data.slug}</div>
-
-	<nav>
-		<div>
-			<p>Consonants</p>
-			<ul>
-				{#each ipaList.dConsonants as ipaChar}
-					<li><a href="/{ipaChar}">{ipaChar}</a></li>
-				{/each}
-			</ul>
-		</div>
-		<div>
-			<p>Easy Consonants</p>
-			<ul>
-				{#each ipaList.eConsonants as ipaChar}
-					<li><a href="/{ipaChar}">{ipaChar}</a></li>
-				{/each}
-			</ul>
-		</div>
-	</nav>
+	<div class="side">{$page.params.slug}</div>
 </div>
 
 <style>
+	@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Pacifico&display=swap');
 	.layout {
 		display: grid;
-		grid-template-columns: 10em 1fr 2fr 1fr 10em;
+		grid-template-columns: 10em 1fr 1fr 5em;
 		font-family: 'Noto Serif', serif;
 	}
-	.layout > div {
-		font-size: 10em;
+	.side {
+		font-size: 20em;
 		font-weight: 100;
 		display: grid;
 		height: 100vh;

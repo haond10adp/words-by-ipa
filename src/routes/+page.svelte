@@ -1,6 +1,5 @@
 <script lang="ts">
-	import type { PageData } from './$types';
-	export let data: PageData;
+	let { data } = $props();
 </script>
 
 <table>
@@ -24,9 +23,8 @@
 </table>
 
 <style>
-	@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Pacifico&display=swap');
-
 	table {
+		column-count: 2;
 		font-size: large;
 		font-family: 'Noto Serif', serif;
 		margin: 0 auto;

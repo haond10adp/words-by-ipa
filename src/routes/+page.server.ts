@@ -1,4 +1,4 @@
-import type { LayoutServerLoad } from './$types';
+import type { PageServerLoad } from './$types';
 import data from '$lib/common-words.json';
 
 interface Word {
@@ -7,9 +7,8 @@ interface Word {
 	translation: string;
 }
 
-export const load: LayoutServerLoad = ({ params }) => {
+export const load: PageServerLoad = () => {
 	const wordList: Word[] = data.Sheet1;
 	const words = wordList;
-	const slug = params.slug;
-	return { words, slug };
+	return { words };
 };
