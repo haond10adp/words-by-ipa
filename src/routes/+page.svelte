@@ -24,7 +24,6 @@
 
 <style>
 	table {
-		column-count: 2;
 		font-size: large;
 		font-family: 'Noto Serif', serif;
 		margin: 0 auto;

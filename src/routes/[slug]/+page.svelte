@@ -1,6 +1,5 @@
 <script lang="ts">
-	import type { PageData } from './$types';
-	export let data: PageData;
+	let { data } = $props();
 </script>
 
 <table>
@@ -36,7 +35,7 @@
 		border-bottom: 1px solid black;
 	}
 
-	table tbody tr:nth-of-type(7n) {
+	table tbody tr:nth-of-type(10n) {
 		background: lightgoldenrodyellow;
 		border-bottom: 2px solid black;
 	}
