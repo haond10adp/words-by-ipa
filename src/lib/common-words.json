@@ -86,6 +86,11 @@
       "translation": "nói"
     },
     {
+      "lemma": "was",
+      "ipa": "wɒz",
+      "translation": "là"
+    },
+    {
       "lemma": "the",
       "ipa": "ðə",
       "translation": "the"
@@ -577,7 +582,7 @@
     },
     {
       "lemma": "shop",
-      "ipa": "ʃɪp",
+      "ipa": "ʃɒp",
       "translation": "cửa tiệm"
     },
     {
@@ -2242,7 +2247,7 @@
     },
     {
       "lemma": "high",
-      "ipa": "ɡɪft",
+      "ipa": "haɪ",
       "translation": "cao"
     },
     {
@@ -2942,7 +2947,7 @@
     },
     {
       "lemma": "hold",
-      "ipa": "fɔːm",
+      "ipa": "həʊld",
       "translation": "giữ"
     },
     {
@@ -4032,7 +4037,7 @@
     },
     {
       "lemma": "forget",
-      "ipa": "ˈɪŋɡlɪʃ",
+      "ipa": "fəˈɡet",
       "translation": "quên"
     },
     {
